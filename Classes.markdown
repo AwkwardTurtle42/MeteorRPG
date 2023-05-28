@@ -11,7 +11,7 @@ nav_order: 3
 
 *enforcer, marine, soldier, guard, grunt, merc*
 
-![ARMOR](EnforcerBW.png "ARMOR")
+![ARMOR](ARMOR.png "ARMOR")
 
 In this shitty universe someone is always going to be getting ground into the dirt, and given the choice you’d rather be wearing the boot than getting stepped on. You know the best way to survive a fight is to be sufficiently intimidating to make sure no one wants to start one in the first place. Not that you don’t know how to end a fight in short order if someone’s too stupid to know better.
 
@@ -57,7 +57,7 @@ Loudspeaker Suit Mod
 
 *deckhand, jacktar, teamster, pilot, technician*
 
-![WRENCH](JackTarBW.png "WRENCH")
+![WRENCH](WRENCH.png "WRENCH")
 
 Piloting, modding, or fixing. You know your way around every part of a ship. Without you and your kind the whole system comes tumbling down. Not that most people see it that way, which is mostly how you want it. You can get away with a lot more while flying under the radar.
 
@@ -99,7 +99,7 @@ Plus equipment based on your Max HP. If your highest Ability is below 10 you may
 
 *android, robot, clone, cyborg, replicant*
 
-![SYNTH](SynthBW.png "SYNTH")
+![SYNTH](SYNTH.png "SYNTH")
 
 Grown, built, or otherwise, you’ve come into existence through an alternate means. Corporate tends to only consider you a person when its to their advantage. You’ve made your own mind up on that account, and you don’t need others to approve that decision.
 
@@ -140,7 +140,7 @@ Plus equipment based on your Max HP. If your highest Ability is below 10 you may
 
 *scientist, doctor, hacker, researcher, specialist*
 
-![LABCOAT](ResearcherBW.png "LABCOAT")
+![LABCOAT](LABCOAT.png "LABCOAT")
 
 They sneer at you, call your ideas crackpot, claim your lab practices show a “blatant disregard for basic safety measures”. But when shit really hits the fan you’re the only one who knows what’s going on. The fact that you’re the one who caused shit to hit the fan is beside the point, and probably best kept a secret.
 

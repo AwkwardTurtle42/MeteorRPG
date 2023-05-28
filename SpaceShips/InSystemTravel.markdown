@@ -49,7 +49,7 @@ Encounters are system specific NPCs, ships, space creatures, or other phenomenon
 
 ## Example
 
-![In-System Travel](ExampleSystem.jpg "Example In-System Travel")
+![In-System Travel](ExampleSystem.png "Example In-System Travel")
 
 The Space Beagle is traveling from **m4** to **i1**. Captain Vogt doesn’t want to fly through the asteroid fields in **i2** and **i4** (⇥1) and has heard rumors of corporate patrols in **m3** (🗲1), so decides to travel through **c0** and risk solar flares (🗲2) from the unstable primary. Being low on Fuel, they travel under normal power, expecting the trip to take 48 hours.
 
