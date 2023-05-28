@@ -15,7 +15,7 @@ Undefined Skills are an unexplored part of your character’s past and chosen on
 
 ## Random Skills (d66)
 
-To generate a random skill, roll a d6 for the column then a d6 for the row (or click [here](https://perchance.org/meteorskill).
+To generate a random skill, roll a d6 for the column then a d6 for the row (or click [here](https://perchance.org/meteorskill)).
 
 | d6 | 1.          | 2.                | 3.                         | 4.             | 5.                | 6.              |
 |----|-------------|-------------------|----------------------------|----------------|-------------------|-----------------|
