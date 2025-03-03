@@ -7,15 +7,15 @@ nav_order: 1
 
 # Character Creation
 
-## Abilities
+## Attributes
 
-Characters in Meteor Corp. have three abilities:
+Characters in Meteor Corp. have three attributes:
 
  * **Body:** Used for Saves involving innate strength, speed, agility and reflexes.
  * **Resolve:** Used for Saves to keep your head in stressful situations.
  * **Training:** Used for Saves involving expertise and Skills.
 
-Roll d6+6 for each ability.
+Roll d6+6 for each attribute, you may then swap any two of the results.
 
 *Half of Training, rounded up, is used for Saves involving expertise or Skills a character does not have.*
 
@@ -27,7 +27,7 @@ Roll a d6 to determine your starting Hit Protection (HP).
 
 ## Class
 
-Your class indicates your broad archetype and how you respond to stress. It boosts abilities, grants a special talent, and provides Unique Skills and Starting Equipment, plus an Equipment Package based on your HP.
+Your class indicates your broad archetype and how you respond to stress. It boosts attributes, grants a special talent, and provides Unique Skills and Starting Equipment, plus an Equipment Package based on your HP.
 
 Choose a class for your character and follow the instructions on that page:
 
@@ -40,9 +40,9 @@ See [Weapons](/SRD/Weapons.html), [Equipment](/SRD/Equipment.html), and [Augment
 
 ## Skills
 
-Your Skills describe the things you’re particularly good at, and determine when you roll against your full Training Ability in risky situations. If you need to roll Training and you don’t have a relevant Skill, divide the ability in half, rounded up.
+Your Skills describe the things you’re particularly good at, and determine when you roll against your full Training Attribute in risky situations. If you need to roll Training and you don’t have a relevant Skill, divide the attribute in half, rounded up.
 
-You’ll get two Unique Skills from your Class, two [Random Skills](/SRD/Skills.html#random-skills-d66), and two [Undefined Skills](/SRD/Skills.html#undefined-skills) which will be determined on the fly during play.
+You’ll get two Unique Skills from your Class, two [Random Skills](/SRD/Skills.html#random-skills-d66), and a single [Undefined Skills](/SRD/Skills.html#undefined-skills) which will be determined on the fly during play.
 
 ## Final Details
 

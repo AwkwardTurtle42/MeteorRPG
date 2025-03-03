@@ -15,7 +15,7 @@ For normal operation all characters are considered to be baseline competent at f
 
 ## Ship Saves
 
-A Ship Save is a roll for the Ship to avoid bad outcomes from risky choices and circumstances. Roll a d20 and compare to the appropriate Ability. If you roll equal to or lower than the Ability you succeed and avoid the bad outcome.
+A Ship Save is a roll for the Ship to avoid bad outcomes from risky choices and circumstances. Roll a d20 and compare to the appropriate Attribute. If you roll equal to or lower than the Attribute you succeed and avoid the bad outcome.
 
 Roll a Ship Save when the determining factor for success is the Ship’s capabilities. If success depends more on the skill of a character operating the ship, the character should roll a Save instead. 
 
@@ -23,7 +23,7 @@ Read about the [First Failure](/GMTools/GMGuidance.html#first-failure) principle
 
 ## Ship Repair
 
-Your ship’s Shields naturally restores 1 point per Round, or faster by spending Fuel to charge them.
+Your ship’s Shields naturally restores 1 point per Round, or faster by spending Fuel to *charge* them.
 
 Damaged Modules require supplies, effort, and a week to repair by hand or a day in a suitably equipped settlement.
 

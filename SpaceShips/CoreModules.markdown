@@ -7,9 +7,12 @@ nav_order: 7
 
 # Core Modules
 
+
 ## Core Modules
 
-1.	**Standard Shield Projector** provides 3 Max Shields. Restores 1 Shield each round, charge to instantly restore to max. Active Shields significantly limit the range and effectiveness of Scanning and Comms.
+Core modules represent the base capabilities of a Ship, and do not fill Inventory slots.
+
+1.	**Standard Shield Projector** provides 3 Max Shields. Restores 1 Shield each round, *charge* to instantly restore to max. Active Shields significantly limit the range and effectiveness of Scanning and Comms.
  	- If *damaged* Shields no longer restore themselves and must be charged to be restored.
 
 2.	**Scanning & Comms Array** allow the ship to talk to and look at things. See opposite page for range and effectiveness.

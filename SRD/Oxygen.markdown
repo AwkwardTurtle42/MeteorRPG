@@ -11,19 +11,19 @@ nav_order: 5
 
 Vacuum Suits have an "Oxygen Storage" rating, representing how much breathable Oxygen they can hold.
 
-Oxygen Storage defaults to 6.
+Oxygen Storage defaults to 6, although some Vac Suits can have more or less capacity.
 
-A Vac Suit can be fully filled in a Turn (10 minutes) while in a breathable pressurized environment, or instantly with an Oxygen Tank (1 inventory slot).
+A Vac Suit can be complete refilled in a Turn (10 minutes) while in a breathable pressurized environment, or instantly with an Oxygen Tank (1 inventory slot).
 
 ## Breathing
 
-When relying on your suit to breath, consume 1 Oxygen per Turn (10 minutes). 
+When relying on your suit to breathe, consume 1 Oxygen per Turn (10 minutes). 
 
-This means most Vac Suits can support you for on hour.
+This means most Vac Suits can support you for one hour.
 
 Failing a Stress Save consumes 1 Oxygen.
 
-When you take damage that could puncture or damage your vac suit, the suit loses Oxygen for each point of damage taken. Most vac suits will self repair breaches. Excepting cases of catastrophic damage to the suit, they will retain integrity after this immediate Oxygen loss.
+When you take damage that could puncture or damage your vac suit, the suit loses 1 Oxygen for each point of damage taken. Most vac suits will self repair breaches. Excepting cases of catastrophic damage to the suit, they will retain integrity after this immediate Oxygen loss.
 
 ## Running Out
 

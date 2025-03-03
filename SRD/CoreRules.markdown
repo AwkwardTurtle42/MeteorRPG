@@ -11,13 +11,19 @@ nav_order: 1
 
 A Save is a roll to avoid bad outcomes from risky choices and circumstances. 
 
-Roll a d20 and compare to the appropriate Ability. If you roll equal to or lower than the Ability you succeed and avoid the bad outcome.
+Roll a d20 and compare to the appropriate Attribute. If you roll equal to or lower than the Attribute you succeed and avoid the bad outcome.
+
+ * Roll against **Body** for Saves involving innate strength, speed, agility and reflexes.
+ * Roll against **Resolve** for Saves to keep your head in stressful situations.
+ * Roll against **Training** for Saves involving expertise and Skills.
 
 ## Stress Saves
 
 When you're subjected to a stressful, horrifying, or incomprehensible situation you must make a Resolve Save to avoid losing Resolve. 
 
-The amount of Resolve you risk losing depends on the situation, starting at a d4, and as high as a d10 for extreme situations
+The amount of Resolve you risk losing depends on the situation, starting at a d4, and as high as a d10 for extreme situations.
+
+This will be written as: Make a Stress Save or lose dX Resolve.
 
 ##  Panic
 
@@ -47,13 +53,13 @@ Training loss is fully restored with a week’s rest, or faster if facilitated b
 
 ## Deprivation
 
-If you are *deprived* of a crucial need (such as food or rest) you are unable to recover HP or Abilities. For each day you remain *deprived* add Fatigue to your inventory. 
+If you are *deprived* of a crucial need (such as food or rest) you are unable to recover HP or Attributes. For each day you remain *deprived* add Fatigue to your inventory. 
 
 ## Fatigue
 
 Each Fatigue occupies one slot and lasts until you’re able to recuperate (such as a full night’s rest in a safe spot).
 
-You can gain Fatigue by *charging* Augmentations, *deprovation*, or through events in the fiction.
+You can gain Fatigue by *charging* Augmentations, *deprivation*, or through events in the fiction.
 
 ## Equipment
 
@@ -73,6 +79,6 @@ Some Augmentations have an active *charge* ability which can be used by adding a
 
 When you survive a dangerous mission or completely escape a hostile environment either increase your HP by 1 (to a maximum of 12) or gain an [Undefined Skill](/SRD/Skills.html#undefined-skills).
 
-Then roll a d20 for each of Body, Resolve and Training. If a result is higher than the ability, it increases by 1 (to a maximum of 18).
+Then roll a d20 for each of Body, Resolve and Training. If a result is higher than the Attribute, it increases by 1 (to a maximum of 18).
 
 Aside from this mechanical advancement, the primary way a Meteor character improves is by the equipment, augmentations, and other weirdness they pick up through play.

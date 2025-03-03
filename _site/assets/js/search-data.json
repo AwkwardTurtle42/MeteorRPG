@@ -28,11 +28,11 @@
     "relUrl": "/SRD/CharacterCreation.html"
   },"4": {
     "doc": "Character Creation",
-    "title": "Abilities",
-    "content": "Characters in Meteor Corp. have three abilities: . | Body: Used for Saves involving innate strength, speed, agility and reflexes. | Resolve: Used for Saves to keep your head in stressful situations. | Training: Used for Saves involving expertise and Skills. | . Roll d6+6 for each ability. Half of Training, rounded up, is used for Saves involving expertise or Skills a character does not have. ",
-    "url": "/SRD/CharacterCreation.html#abilities",
+    "title": "Attributes",
+    "content": "Characters in Meteor Corp. have three attributes: . | Body: Used for Saves involving innate strength, speed, agility and reflexes. | Resolve: Used for Saves to keep your head in stressful situations. | Training: Used for Saves involving expertise and Skills. | . Roll d6+6 for each attribute, you may then swap any two of the results. Half of Training, rounded up, is used for Saves involving expertise or Skills a character does not have. ",
+    "url": "/SRD/CharacterCreation.html#attributes",
     
-    "relUrl": "/SRD/CharacterCreation.html#abilities"
+    "relUrl": "/SRD/CharacterCreation.html#attributes"
   },"5": {
     "doc": "Character Creation",
     "title": "Hit Protection",
@@ -43,14 +43,14 @@
   },"6": {
     "doc": "Character Creation",
     "title": "Class",
-    "content": "Your class indicates your broad archetype and how you respond to stress. It boosts abilities, grants a special talent, and provides Unique Skills and Starting Equipment, plus an Equipment Package based on your HP. Choose a class for your character and follow the instructions on that page: . | ARMOR: The boots on the ground, or the neck. Good at being scary and not dying. | WRENCH: Keeps the ships flying. Good at getting things to work, one way or another. | SYNTH: An artificial person, constructed or grown. Good at computers and interfacing with tech. | LABCOAT: The one who figures things out. Good at leveraging knowledge. | . See Weapons, Equipment, and Augmentations for more details for more details about specific items. ",
+    "content": "Your class indicates your broad archetype and how you respond to stress. It boosts attributes, grants a special talent, and provides Unique Skills and Starting Equipment, plus an Equipment Package based on your HP. Choose a class for your character and follow the instructions on that page: . | ARMOR: The boots on the ground, or the neck. Good at being scary and not dying. | WRENCH: Keeps the ships flying. Good at getting things to work, one way or another. | SYNTH: An artificial person, constructed or grown. Good at computers and interfacing with tech. | LABCOAT: The one who figures things out. Good at leveraging knowledge. | . See Weapons, Equipment, and Augmentations for more details for more details about specific items. ",
     "url": "/SRD/CharacterCreation.html#class",
     
     "relUrl": "/SRD/CharacterCreation.html#class"
   },"7": {
     "doc": "Character Creation",
     "title": "Skills",
-    "content": "Your Skills describe the things you’re particularly good at, and determine when you roll against your full Training Ability in risky situations. If you need to roll Training and you don’t have a relevant Skill, divide the ability in half, rounded up. You’ll get two Unique Skills from your Class, two Random Skills, and two Undefined Skills which will be determined on the fly during play. ",
+    "content": "Your Skills describe the things you’re particularly good at, and determine when you roll against your full Training Attribute in risky situations. If you need to roll Training and you don’t have a relevant Skill, divide the attribute in half, rounded up. You’ll get two Unique Skills from your Class, two Random Skills, and a single Undefined Skills which will be determined on the fly during play. ",
     "url": "/SRD/CharacterCreation.html#skills",
     
     "relUrl": "/SRD/CharacterCreation.html#skills"
@@ -71,28 +71,28 @@
   },"10": {
     "doc": "Classes",
     "title": "ARMOR",
-    "content": "enforcer, marine, soldier, guard, grunt, merc . In this shitty universe someone is always going to be getting ground into the dirt, and given the choice you’d rather be wearing the boot than getting stepped on. You know the best way to survive a fight is to be sufficiently intimidating to make sure no one wants to start one in the first place. Not that you don’t know how to end a fight in short order if someone’s too stupid to know better. Stat Bonuses . Increase your HP and Body by d3 each. Skills . | Pick Two: Intimidation, Weapon Repair, Military Training, and Wrestling | Two Random Skills | Two Undefined Skills | . Panic . Your most likely panic response is to Fight. Order Flee and Freeze as second and third most likely. Talent . Reroll any of your damage dice that roll a 1. Starting Equipment . You start with: . | Modded Hardened Vac Suit (1 Armor, bulky, 6 Oxygen) | . Plus equipment based on your Max HP. If your highest Ability is below 10 you may choose another item from this list. | 2HP PKD Revolver (1d8), 3x EMP Grenade (1d10 blast to electronics), Faraday Cage Suit Mod, One Random Augmentation | 3HP Assault Rifle (1d8, bulky), 3x Frag Grenades (1d10 blast), AI Assistant Suit Mod | 4HP Phased Microwave Array (1d8, nonlethal setting), 3x Flashbang (1d10 blast, nonlethal), Spotlight Suit Mod | 5HP Flamethrower (1d8 blast, bulky), Fire Extinguisher (1d6), Motion Tracker Suit Mod | 6HP Machine Gun (1d8 blast, bulky), Combat Knife (1d6), Loudspeaker Suit Mod | 7HP+ Barracuda Tactical Shotgun (1d6 blast, 1d10 point-blank, bulky), 3x Smoke Grenades, Thermal Vision Suit Mod | . ",
+    "content": "enforcer, marine, soldier, guard, grunt, merc . In this shitty universe someone is always going to be getting ground into the dirt, and given the choice you’d rather be wearing the boot than getting stepped on. You know the best way to survive a fight is to be sufficiently intimidating to make sure no one wants to start one in the first place. Not that you don’t know how to end a fight in short order if someone’s too stupid to know better. Stat Bonuses . Increase your HP and Body by d3 each. Skills . | Pick Two: Intimidation, Weapon Repair, Military Training, and Wrestling | Two Random Skills | One Undefined Skills | . Panic . Your most likely panic response is to Fight. Order Flee and Freeze as second and third most likely. Talent . Reroll any of your damage dice that roll a 1. Starting Equipment . You start with: . | Modded Hardened Vac Suit (1 Armor, bulky, 6 Oxygen) | . Plus equipment based on your Max HP. If your highest Ability is below 10 you may choose another item from this list. | 2HP PKD Revolver (1d8), 3x EMP Grenade (1d10 blast to electronics), Faraday Cage Suit Mod, One Random Augmentation | 3HP Assault Rifle (1d8, bulky), 3x Frag Grenades (1d10 blast), AI Assistant Suit Mod | 4HP Phased Microwave Array (1d8, nonlethal setting), 3x Flashbang (1d10 blast, nonlethal), Spotlight Suit Mod | 5HP Flamethrower (1d8 blast, bulky), Fire Extinguisher (1d6), Motion Tracker Suit Mod | 6HP Machine Gun (1d8 blast, bulky), Combat Knife (1d6), Loudspeaker Suit Mod | 7HP+ Barracuda Tactical Shotgun (1d6 blast, 1d10 point-blank, bulky), 3x Smoke Grenades, Thermal Vision Suit Mod | . ",
     "url": "/Classes.html#armor",
     
     "relUrl": "/Classes.html#armor"
   },"11": {
     "doc": "Classes",
     "title": "WRENCH",
-    "content": "deckhand, jacktar, teamster, pilot, technician . Piloting, modding, or fixing. You know your way around every part of a ship. Without you and your kind the whole system comes tumbling down. Not that most people see it that way, which is mostly how you want it. You can get away with a lot more while flying under the radar. Stat Bonuses . Increase your Body and Resolve by d3 each. Skills . | Pick Two: Zero-G, Engineering, Fast Talk, and Piloting | Two Random Skills | Two Undefined Skills | . Panic . Your most likely Panic response is to Flee. Order Fight and Freeze as second and third most likely. Talent . Get broken equipment to work with a plausible explanation and 1d4 Resolve per minute. It’s destroyed, or left inoperable, when you stop. Starting Equipment . You start with: . | Tool Belt (bulky, holds most hand tools) | Vac Suit (6 Oxygen) | . Plus equipment based on your Max HP. If your highest Ability is below 10 you may choose another item from this list. | 1HP Plastiform Pistol (1d8, jams on 8, invisible to scan), 3x Sticky Camera Bombs (d6 blast), One Random Augmentation | 2HP Cutting Torch (1d8), Metalweave Coat (1 Armor, opaque to scans), Respirator | 3HP Multipurpose Plasma Cutter (1d8), Bioroid Pet | 4HP Plasma Projector (d8 blast, bulky), Bio-Plastic Spray, Universal Etchant | 5HP Powered Sledgehammer (1d10, bulky, forceful), 3x Demo Charge (1d10 blast), Remote Detonator | 6HP Pry-bar (d6), Rigging Gun (1d8, bulky, retractable harpoon), 3x Thermite Flare | . ",
+    "content": "deckhand, jacktar, teamster, pilot, technician . Piloting, modding, or fixing. You know your way around every part of a ship. Without you and your kind the whole system comes tumbling down. Not that most people see it that way, which is mostly how you want it. You can get away with a lot more while flying under the radar. Stat Bonuses . Increase your Body and Resolve by d3 each. Skills . | Pick Two: Zero-G, Engineering, Fast Talk, and Piloting | Two Random Skills | One Undefined Skills | . Panic . Your most likely Panic response is to Flee. Order Fight and Freeze as second and third most likely. Talent . Get broken equipment to work with a plausible explanation and 1d4 Resolve per minute. It’s destroyed, or left inoperable, when you stop. Starting Equipment . You start with: . | Tool Belt (bulky, holds most hand tools) | Vac Suit (6 Oxygen) | . Plus equipment based on your Max HP. If your highest Ability is below 10 you may choose another item from this list. | 1HP Plastiform Pistol (1d8, jams on 8, invisible to scan), 3x Sticky Camera Bombs (d6 blast), One Random Augmentation | 2HP Cutting Torch (1d8), Metalweave Coat (1 Armor, opaque to scans), Respirator | 3HP Multipurpose Plasma Cutter (1d8), Bioroid Pet | 4HP Plasma Projector (d8 blast, bulky), Bio-Plastic Spray, Universal Etchant | 5HP Powered Sledgehammer (1d10, bulky, forceful), 3x Demo Charge (1d10 blast), Remote Detonator | 6HP Pry-bar (d6), Rigging Gun (1d8, bulky, retractable harpoon), 3x Thermite Flare | . ",
     "url": "/Classes.html#wrench",
     
     "relUrl": "/Classes.html#wrench"
   },"12": {
     "doc": "Classes",
     "title": "SYNTH",
-    "content": "android, robot, clone, cyborg, replicant . Grown, built, or otherwise, you’ve come into existence through an alternate means. Corporate tends to only consider you a person when its to their advantage. You’ve made your own mind up on that account, and you don’t need others to approve that decision. Stat Bonuses . Increase your Resolve and Training by d3 each. Skills . | Pick Two: Linguistics, Mathematics, Computers, and Cybernetics | Two Random Skills | Two Undefined Skills | . Panic . You do not have a most likely Panic response. Instead, when you Panic you choose your response rather than rolling. Talent . Your inventory slots with Augmentations can also store Fatigue. Starting Equipment . You start with: . | Access Jack Augmentation (Interface with any computer. Charge to remotely interface in line of sight.) | . Plus equipment based on your Max HP. If your highest Ability is below 10 you may choose another item from this list. | 1HP Mono-molecular Sword (1d8), Remote Camera Drone, Personal Shield Augmentation, One Random Augmentation | 2HP Gyrojet Pistol (1d8), Reinforced Duster (1 Armor), Signal Jammer, Holo-Projector Augmentation | 3HP Mining Laser (1d10, bulky, one turn charge), 3x Timed Mining Charge (1d10 blast), Extra Arms Augmentation | 4HP Welding Torch (1d8), Welding Fuel Tank (d6 bludgeon, d10 blast if ignited), Anti-Higgs Mass Neutralizer, Miniature Tractor Field Aug | 5HP Arc Projector (1d6 blast), Liquid Nitrogen Canister, 3x Universal Epoxy Tubes, Fabricator Augmentation | 6HP Neuronic Whip (1d8, Nonlethal), Lock Pick Set, Digital Override Cart, Smuggling Compartment Augmentation | . ",
+    "content": "android, robot, clone, cyborg, replicant . Grown, built, or otherwise, you’ve come into existence through an alternate means. Corporate tends to only consider you a person when its to their advantage. You’ve made your own mind up on that account, and you don’t need others to approve that decision. Stat Bonuses . Increase your Resolve and Training by d3 each. Skills . | Pick Two: Linguistics, Mathematics, Computers, and Cybernetics | Two Random Skills | One Undefined Skills | . Panic . You do not have a most likely Panic response. Instead, when you Panic you choose your response rather than rolling. Talent . Your inventory slots with Augmentations can also store Fatigue. Starting Equipment . You start with: . | Access Jack Augmentation (Interface with any computer. Charge to remotely interface in line of sight.) | Vac Suit (6 Oxygen), if you’re the sort of synth that needs to breathe. | . Plus equipment based on your Max HP. If your highest Ability is below 10 you may choose another item from this list. | 1HP Mono-molecular Sword (1d8), Remote Camera Drone, Personal Shield Augmentation, One Random Augmentation | 2HP Gyrojet Pistol (1d8), Reinforced Duster (1 Armor), Signal Jammer, Holo-Projector Augmentation | 3HP Mining Laser (1d10, bulky, one turn charge), 3x Timed Mining Charge (1d10 blast), Extra Arms Augmentation | 4HP Welding Torch (1d8), Welding Fuel Tank (d6 bludgeon, d10 blast if ignited), Anti-Higgs Mass Neutralizer, Miniature Tractor Field Aug | 5HP Arc Projector (1d6 blast), Liquid Nitrogen Canister, 3x Universal Epoxy Tubes, Fabricator Augmentation | 6HP Neuronic Whip (1d8, Nonlethal), Lock Pick Set, Digital Override Cart, Smuggling Compartment Augmentation | . ",
     "url": "/Classes.html#synth",
     
     "relUrl": "/Classes.html#synth"
   },"13": {
     "doc": "Classes",
     "title": "LABCOAT",
-    "content": "scientist, doctor, hacker, researcher, specialist . They sneer at you, call your ideas crackpot, claim your lab practices show a “blatant disregard for basic safety measures”. But when shit really hits the fan you’re the only one who knows what’s going on. The fact that you’re the one who caused shit to hit the fan is beside the point, and probably best kept a secret. Stat Bonuses . Increase your Training by d6. Skills . | Pick Two: Biology, Chemistry, Physics, and Hacking | Two Random Skills | Two Undefined Skills | . Panic . Your most likely Panic response is to Freeze. Order Fight and Flight as second and third most likely. Talent . Lose 1d4 Resolve to roll your full Training instead of any other Ability for a Save. Starting Equipment . You start with: . | Omni-Scanner | Vac Suit (6 Oxygen) | . Plus equipment based on your Max HP. If your highest Ability is below 10 you may choose another item from this list. | 1HP Syringe Launcher (1d6 or loaded syringe), Syringe Bandolier (3x Nano Healbot Syringe, 3x Stim Syringe), Stash of Empty Syringes, One Random Augmentation | 2HP Shock Dart Pistol (1d8, nonlethal), 3x Tracker Tags (can be located with Omni-Scanner), Small Xenofauna Pet | 3HP Magnetic Slug Thrower (1d6), Bio Dissection and Analysis Kit, Auto Med Kit | 4HP Antique Revolver (1d6), Monofilament Wire, Grapple Hook, Auto-Ascender | 5HP Laser Wristwatch (1d6), Optical Analysis Headset (Connects to Omni-Scanner for line of sight analysis) | 6HP Pipe Wrench (1d6), 3x Jars of 190 Proof Alcohol, Vintage Rocket Shaped Lighter | . ",
+    "content": "scientist, doctor, hacker, researcher, specialist . They sneer at you, call your ideas crackpot, claim your lab practices show a “blatant disregard for basic safety measures”. But when shit really hits the fan you’re the only one who knows what’s going on. The fact that you’re the one who caused shit to hit the fan is beside the point, and probably best kept a secret. Stat Bonuses . Increase your Training by d6. Skills . | Pick Two: Biology, Chemistry, Physics, and Hacking | Two Random Skills | One Undefined Skills | . Panic . Your most likely Panic response is to Freeze. Order Fight and Flight as second and third most likely. Talent . Lose 1d4 Resolve to roll your full Training instead of any other Ability for a Save. Starting Equipment . You start with: . | Omni-Scanner | Vac Suit (6 Oxygen) | . Plus equipment based on your Max HP. If your highest Ability is below 10 you may choose another item from this list. | 1HP Syringe Launcher (1d6 or loaded syringe), Syringe Bandolier (3x Nano Healbot Syringe, 3x Stim Syringe), Stash of Empty Syringes, One Random Augmentation | 2HP Shock Dart Pistol (1d8, nonlethal), 3x Tracker Tags (can be located with Omni-Scanner), Small Xenofauna Pet | 3HP Magnetic Slug Thrower (1d6), Bio Dissection and Analysis Kit, Auto Med Kit | 4HP Antique Revolver (1d6), Monofilament Wire, Grapple Hook, Auto-Ascender | 5HP Laser Wristwatch (1d6), Optical Analysis Headset (Connects to Omni-Scanner for line of sight analysis) | 6HP Pipe Wrench (1d6), 3x Jars of 190 Proof Alcohol, Vintage Rocket Shaped Lighter | . ",
     "url": "/Classes.html#labcoat",
     
     "relUrl": "/Classes.html#labcoat"
@@ -197,7 +197,7 @@
   },"28": {
     "doc": "Core Modules",
     "title": "Core Modules",
-    "content": ". | Standard Shield Projector provides 3 Max Shields. Restores 1 Shield each round, charge to instantly restore to max. Active Shields significantly limit the range and effectiveness of Scanning and Comms. - If damaged Shields no longer restore themselves and must be charged to be restored. | Scanning &amp; Comms Array allow the ship to talk to and look at things. See opposite page for range and effectiveness. | If damaged both Scans and Comms are low fidelity and cannot reach beyond the current zone. | . | Life Support System provides oxygen to breathe, water to drink, food to eat, and gravity to walk with. | If damaged artificial gravity is disabled, and the crew is Deprived while relying on ship air, water, and food. | . | Impulse Drive moves the ship around at sublight speeds. Usually takes hours to days to reach any point within a given star system (Pg 38). | If damaged all travel times are doubled. Rapid maneuvers risk catastrophic failure. | . | Warp Drive jumps the ship to a neighboring star system. Cannot be activated while Shields are active, and requires six hours to warm up and perform the calculations to jump safely. | If damaged all jumps require a roll on the Warp Mishaps table, and emergency warps risk catastrophic failure. | . | . ",
+    "content": "Core modules represent the base capabilities of a Ship, and do not fill Inventory slots. | Standard Shield Projector provides 3 Max Shields. Restores 1 Shield each round, charge to instantly restore to max. Active Shields significantly limit the range and effectiveness of Scanning and Comms. - If damaged Shields no longer restore themselves and must be charged to be restored. | Scanning &amp; Comms Array allow the ship to talk to and look at things. See opposite page for range and effectiveness. | If damaged both Scans and Comms are low fidelity and cannot reach beyond the current zone. | . | Life Support System provides oxygen to breathe, water to drink, food to eat, and gravity to walk with. | If damaged artificial gravity is disabled, and the crew is Deprived while relying on ship air, water, and food. | . | Impulse Drive moves the ship around at sublight speeds. Usually takes hours to days to reach any point within a given star system (Pg 38). | If damaged all travel times are doubled. Rapid maneuvers risk catastrophic failure. | . | Warp Drive jumps the ship to a neighboring star system. Cannot be activated while Shields are active, and requires six hours to warm up and perform the calculations to jump safely. | If damaged all jumps require a roll on the Warp Mishaps table, and emergency warps risk catastrophic failure. | . | . ",
     "url": "/SpaceShips/CoreModules.html",
     
     "relUrl": "/SpaceShips/CoreModules.html"
@@ -225,14 +225,14 @@
   },"32": {
     "doc": "Core Rules",
     "title": "Saves",
-    "content": "A Save is a roll to avoid bad outcomes from risky choices and circumstances. Roll a d20 and compare to the appropriate Ability. If you roll equal to or lower than the Ability you succeed and avoid the bad outcome. ",
+    "content": "A Save is a roll to avoid bad outcomes from risky choices and circumstances. Roll a d20 and compare to the appropriate Attribute. If you roll equal to or lower than the Attribute you succeed and avoid the bad outcome. | Roll against Body for Saves involving innate strength, speed, agility and reflexes. | Roll against Resolve for Saves to keep your head in stressful situations. | Roll against Training for Saves involving expertise and Skills. | . ",
     "url": "/SRD/CoreRules.html#saves",
     
     "relUrl": "/SRD/CoreRules.html#saves"
   },"33": {
     "doc": "Core Rules",
     "title": "Stress Saves",
-    "content": "When you’re subjected to a stressful, horrifying, or incomprehensible situation you must make a Resolve Save to avoid losing Resolve. The amount of Resolve you risk losing depends on the situation, starting at a d4, and as high as a d10 for extreme situations . ",
+    "content": "When you’re subjected to a stressful, horrifying, or incomprehensible situation you must make a Resolve Save to avoid losing Resolve. The amount of Resolve you risk losing depends on the situation, starting at a d4, and as high as a d10 for extreme situations. This will be written as: Make a Stress Save or lose dX Resolve. ",
     "url": "/SRD/CoreRules.html#stress-saves",
     
     "relUrl": "/SRD/CoreRules.html#stress-saves"
@@ -253,14 +253,14 @@
   },"36": {
     "doc": "Core Rules",
     "title": "Deprivation",
-    "content": "If you are deprived of a crucial need (such as food or rest) you are unable to recover HP or Abilities. For each day you remain deprived add Fatigue to your inventory. ",
+    "content": "If you are deprived of a crucial need (such as food or rest) you are unable to recover HP or Attributes. For each day you remain deprived add Fatigue to your inventory. ",
     "url": "/SRD/CoreRules.html#deprivation",
     
     "relUrl": "/SRD/CoreRules.html#deprivation"
   },"37": {
     "doc": "Core Rules",
     "title": "Fatigue",
-    "content": "Each Fatigue occupies one slot and lasts until you’re able to recuperate (such as a full night’s rest in a safe spot). You can gain Fatigue by charging Augmentations, deprovation, or through events in the fiction. ",
+    "content": "Each Fatigue occupies one slot and lasts until you’re able to recuperate (such as a full night’s rest in a safe spot). You can gain Fatigue by charging Augmentations, deprivation, or through events in the fiction. ",
     "url": "/SRD/CoreRules.html#fatigue",
     
     "relUrl": "/SRD/CoreRules.html#fatigue"
@@ -281,7 +281,7 @@
   },"40": {
     "doc": "Core Rules",
     "title": "Advancement",
-    "content": "When you survive a dangerous mission or completely escape a hostile environment either increase your HP by 1 (to a maximum of 12) or gain an Undefined Skill. Then roll a d20 for each of Body, Resolve and Training. If a result is higher than the ability, it increases by 1 (to a maximum of 18). Aside from this mechanical advancement, the primary way a Meteor character improves is by the equipment, augmentations, and other weirdness they pick up through play. ",
+    "content": "When you survive a dangerous mission or completely escape a hostile environment either increase your HP by 1 (to a maximum of 12) or gain an Undefined Skill. Then roll a d20 for each of Body, Resolve and Training. If a result is higher than the Attribute, it increases by 1 (to a maximum of 18). Aside from this mechanical advancement, the primary way a Meteor character improves is by the equipment, augmentations, and other weirdness they pick up through play. ",
     "url": "/SRD/CoreRules.html#advancement",
     
     "relUrl": "/SRD/CoreRules.html#advancement"
@@ -519,14 +519,14 @@
   },"74": {
     "doc": "Oxygen",
     "title": "Storage",
-    "content": "Vacuum Suits have an “Oxygen Storage” rating, representing how much breathable Oxygen they can hold. Oxygen Storage defaults to 6. A Vac Suit can be fully filled in a Turn (10 minutes) while in a breathable pressurized environment, or instantly with an Oxygen Tank (1 inventory slot). ",
+    "content": "Vacuum Suits have an “Oxygen Storage” rating, representing how much breathable Oxygen they can hold. Oxygen Storage defaults to 6, although some Vac Suits can have more or less capacity. A Vac Suit can be complete refilled in a Turn (10 minutes) while in a breathable pressurized environment, or instantly with an Oxygen Tank (1 inventory slot). ",
     "url": "/SRD/Oxygen.html#storage",
     
     "relUrl": "/SRD/Oxygen.html#storage"
   },"75": {
     "doc": "Oxygen",
     "title": "Breathing",
-    "content": "When relying on your suit to breath, consume 1 Oxygen per Turn (10 minutes). This means most Vac Suits can support you for on hour. Failing a Stress Save consumes 1 Oxygen. When you take damage that could puncture or damage your vac suit, the suit loses Oxygen for each point of damage taken. Most vac suits will self repair breaches. Excepting cases of catastrophic damage to the suit, they will retain integrity after this immediate Oxygen loss. ",
+    "content": "When relying on your suit to breathe, consume 1 Oxygen per Turn (10 minutes). This means most Vac Suits can support you for one hour. Failing a Stress Save consumes 1 Oxygen. When you take damage that could puncture or damage your vac suit, the suit loses 1 Oxygen for each point of damage taken. Most vac suits will self repair breaches. Excepting cases of catastrophic damage to the suit, they will retain integrity after this immediate Oxygen loss. ",
     "url": "/SRD/Oxygen.html#breathing",
     
     "relUrl": "/SRD/Oxygen.html#breathing"
@@ -659,28 +659,28 @@
   },"94": {
     "doc": "Ship Building",
     "title": "Ship Creation",
-    "content": "There is no single method to create player ships, as it is too dependent on the type of campaign, how the players acquired the ship, and how much it cost them. In general, any method will follow the pattern of starting with some Base Abilities (a default of 10 in each), the five Core Modules (including 3 Shields from the Standard Shield Projector), a d6 damage Phased Array for a weapon, 1-3 Specialty Modules (which increase Abilities when installed), and an additional weapon. The following are some possible Ship Creation frameworks, along with seeds for the first adventure and the sort of campaign they might lead into. Start a ship with d4+2 Fuel canisters already loaded into their Inventory. ",
+    "content": "There is no single method to create player ships, as it is too dependent on the type of campaign, how the players acquired the ship, and how much it cost them. In general, any method will follow the pattern of starting with some Base Attributes (a default of 10 in each), the five Core Modules (including 3 Shields from the Standard Shield Projector), a d6 damage Phased Array for a weapon, 1-3 Specialty Modules (which increase Attributes when installed), and one additional weapon. The following are some possible Ship Creation frameworks, along with seeds for the first adventure and the sort of campaign they might lead into. Ships also start with d4+2 Fuel canisters already loaded into their Inventory. ",
     "url": "/SpaceShips/ShipBuilding.html#ship-creation",
     
     "relUrl": "/SpaceShips/ShipBuilding.html#ship-creation"
   },"95": {
     "doc": "Ship Building",
     "title": "New To You",
-    "content": "You were extremely frugal, you scrounged and saved every cred you got your hands on, and even skipped out on buying coffee every morning to try and save up. Turns out that last bit wasn’t very much help, and all you could afford was a second hand ship. | Abilities: Assign 10, 8, 6. | Specialty Modules: Pick any one, plus two random from within Abilities of your choice. | Additional Weapons: Choose one out of two random weapons. | . Downside: Ship is in rough shape, and probably has some hidden idiosyncrasies or a hidden past. Maybe it’s haunted. Starting Mission: The final, foolhardy job you had to take to get the last bit of cash. Campaign: Open world sandbox. Explore the galaxy in your beater spaceship. No one has any claim to you or your ship, aside from ever increasing maintenance costs. ",
+    "content": "You were extremely frugal, you scrounged and saved every cred you got your hands on, and even skipped out on buying coffee every morning to try and save up. Turns out that last bit wasn’t very much help, and all you could afford was a second hand ship. | Attributes: Assign 10, 8, 6. | Specialty Modules: Pick any one, plus two random from within Attributes of your choice. | Additional Weapons: Choose one out of two random weapons. | . Downside: Ship is in rough shape, and probably has some hidden idiosyncrasies or a hidden past. Maybe it’s haunted. Starting Mission: The final, foolhardy job you had to take to get the last bit of cash. Campaign: Open world sandbox. Explore the galaxy in your beater spaceship. No one has any claim to you or your ship, aside from ever increasing maintenance costs. ",
     "url": "/SpaceShips/ShipBuilding.html#new-to-you",
     
     "relUrl": "/SpaceShips/ShipBuilding.html#new-to-you"
   },"96": {
     "doc": "Ship Building",
     "title": "Got A Loan",
-    "content": "You were willing to go deep into debt to some shady characters in order to buy your dream ship. | Abilities: Assign 14, 12, 10. | Specialty Modules: Pick any three. | Additional Weapons: Pick any one. | . Downside: You are heavily in debt. Not only are you expected to make regular payments, your debt holder will frequently lean on you to perform tasks or missions for them. Starting Mission: First task from your debtor, before they turn over the keys. Campaign: Directed, the GM will provide missions for the crew to accomplish. ",
+    "content": "You were willing to go deep into debt to some shady characters in order to buy your dream ship. | Attributes: Assign 14, 12, 10. | Specialty Modules: Pick any three. | Additional Weapons: Pick any one. | . Downside: You are heavily in debt. Not only are you expected to make regular payments, your debt holder will frequently lean on you to perform tasks or missions for them. Starting Mission: First task from your debtor, before they turn over the keys. Campaign: Directed, the GM will provide missions for the crew to accomplish. ",
     "url": "/SpaceShips/ShipBuilding.html#got-a-loan",
     
     "relUrl": "/SpaceShips/ShipBuilding.html#got-a-loan"
   },"97": {
     "doc": "Ship Building",
     "title": "Stole it! Crimes!",
-    "content": "You’ve a criminal! The cool kind! Where you steal a space ship! . | Abilities: Randomly assign 12, 10, 8. | Specialty Modules: Four entirely random modules. | Additional Weapons: One random weapon. | . Downside: You’re flying stolen goods! You will be hunted by whoever you stole it from, and also by CorpSec from both Companies who can “legally” keep your ship if they arrest you. Starting Mission: The ship heist! Let’s see how you got a hold of this thing! . Campaign: Open world with pressure. Stay ahead of your hunters while still making enough of a living to keep flying . ",
+    "content": "You’re a criminal! The cool kind! Where you steal a space ship! . | Attributes: Randomly assign 12, 10, 8. | Specialty Modules: Four entirely random modules. | Additional Weapons: One random weapon. | . Downside: You’re flying stolen goods! You will be hunted by whoever you stole it from, and also by CorpSec from both Companies who can “legally” keep your ship if they arrest you. Starting Mission: The ship heist! Let’s see how you got a hold of this thing! . Campaign: Open world with pressure. Stay ahead of your hunters while still making enough of a living to keep flying . ",
     "url": "/SpaceShips/ShipBuilding.html#stole-it-crimes",
     
     "relUrl": "/SpaceShips/ShipBuilding.html#stole-it-crimes"
@@ -714,446 +714,439 @@
     "relUrl": "/SpaceShips/ShipCombat.html#ship-rounds"
   },"102": {
     "doc": "Ship Combat",
-    "title": "Actions",
-    "content": "On the crew’s turn, each crewmember can take a single action. Each Module on the ship (engines, shields, a specific weapon) can be used only once each round. A single crewmember cannot activate multiple modules or multiple weapons with one action. Actions include but are not limited to: . | Maneuvering the Ship | Firing a Weapon | Activating a Module | . Each round, the PCs declare what they are doing before dice are rolled. If a character attempts something risky, the GM calls for a Save for appropriate players or NPCs. If the action relies mostly on the ship’s capabilities the Save is made using the ship’s Abilities. If the action relies mostly on the player’s skills or cleverness the Save is made using that character’s Ability. ",
-    "url": "/SpaceShips/ShipCombat.html#actions",
-    
-    "relUrl": "/SpaceShips/ShipCombat.html#actions"
-  },"103": {
-    "doc": "Ship Combat",
     "title": "Turns",
     "content": "The GM will telegraph the most likely actions taken by NPC Ships. Sensor Scans or other clever observations can give greater clarity and more detailed information. If it’s unclear if the PCs would act before their opponents, an appropriate Save can allow the PCs to act first. ",
     "url": "/SpaceShips/ShipCombat.html#turns",
     
     "relUrl": "/SpaceShips/ShipCombat.html#turns"
+  },"103": {
+    "doc": "Ship Combat",
+    "title": "Actions",
+    "content": "On the crew’s turn, each crewmember can take a single action. Each Module on the ship (engines, shields, a specific weapon) can be used only once each round. In general a crewmember must be at an appropriate station or console within the ship to take a related action (i.e. at the helm to Maneuver, or at a weapon station to attack).A single crewmember cannot activate multiple modules or multiple weapons with one action. Actions include but are not limited to: . | Maneuvering the Ship | Firing a Weapon | Activating a Module | Rerouting Power | . Each round, the PCs declare what they are doing before dice are rolled. If a character attempts something risky, the GM calls for a Save for appropriate players or NPCs. If the action relies mostly on the ship’s capabilities the Save is made using the ship’s Attributes. If the action relies mostly on the player’s skills or cleverness the Save is made using that character’s Attribute (see First Failure for further guidance). ",
+    "url": "/SpaceShips/ShipCombat.html#actions",
+    
+    "relUrl": "/SpaceShips/ShipCombat.html#actions"
   },"104": {
     "doc": "Ship Combat",
+    "title": "Ship Maneuvers",
+    "content": "A Ship Maneuver can move a ship between Engagement Bands, or take the form of some other fancy flying. Maneuvers that carry risk (such as dodging through an asteroid field) will require a Save to avoid consequences (usually damage to the Ship’s Hull or Modules). ",
+    "url": "/SpaceShips/ShipCombat.html#ship-maneuvers",
+    
+    "relUrl": "/SpaceShips/ShipCombat.html#ship-maneuvers"
+  },"105": {
+    "doc": "Ship Combat",
     "title": "Attacking",
-    "content": "The attacker rolls their weapon die and subtracts the target’s armor, then deals the remaining total to their opponent’s Shields. ",
+    "content": "The attacker rolls their weapon die and subtracts the target’s armor, then deals the remaining total to their opponent’s Shields. Attack Modifiers . If firing from a position of weakness (such as through cover or outside a weapon’s optimal ranges), the attack is impaired and the attacker rolls 1d4 damage regardless of the weapon’s damage die. If fighting from a position of strength (such as against a helpless foe or after a daring maneuver), the attack is enhanced, allowing the attacker to roll 1d12 damage instead of their normal die. Direct Damage . Damage that reduces a target’s Shields below zero deals Direct Damage to the Hull by the amount remaining. The target must then make a Hull Save to avoid Critical Damage. Critical Damage . When a ship takes Critical Damage, a random Core Module is damaged. Damaged Modules operate at significantly reduced capacity until they are repaired, and if damaged a second time are completely destroyed. Attribute Loss . If a ship’s Hull is reduced to 0, atmosphere is lost and any further Direct Damage will destroy the ship. If a ship’s Drive reaches 0, it cannot maneuver under its own power. If a ship’s Tech reaches 0, all modules are treated as damaged. ",
     "url": "/SpaceShips/ShipCombat.html#attacking",
     
     "relUrl": "/SpaceShips/ShipCombat.html#attacking"
-  },"105": {
-    "doc": "Ship Combat",
-    "title": "Attack Modifiers",
-    "content": "If firing from a position of weakness (such as through cover or outside a weapon’s optimal ranges), the attack is impaired and the attacker rolls 1d4 damage regardless of the weapon’s damage die. If fighting from a position of strength (such as against a helpless foe or after a daring maneuver), the attack is enhanced, allowing the attacker to roll 1d12 damage instead of their normal die. ",
-    "url": "/SpaceShips/ShipCombat.html#attack-modifiers",
-    
-    "relUrl": "/SpaceShips/ShipCombat.html#attack-modifiers"
   },"106": {
     "doc": "Ship Combat",
-    "title": "Direct Damage",
-    "content": "Damage that reduces a target’s Shields below zero deals Direct Damage to the Hull by the amount remaining. The target must then make a Hull Save to avoid Critical Damage. ",
-    "url": "/SpaceShips/ShipCombat.html#direct-damage",
+    "title": "Activating a Module",
+    "content": "These activations will often require charging the Module by spending Fuel. ",
+    "url": "/SpaceShips/ShipCombat.html#activating-a-module",
     
-    "relUrl": "/SpaceShips/ShipCombat.html#direct-damage"
+    "relUrl": "/SpaceShips/ShipCombat.html#activating-a-module"
   },"107": {
     "doc": "Ship Combat",
-    "title": "Critical Damage",
-    "content": "When a ship takes Critical Damage, a random Core Module is damaged. Damaged Modules operate at significantly reduced capacity until they are repaired, and if damaged a second time are completely destroyed. ",
-    "url": "/SpaceShips/ShipCombat.html#critical-damage",
+    "title": "Rerouting Power",
+    "content": "In an emergency power can be rerouted from the ship’s Drives to charge a Module without consuming Fuel. Doing so reduces Drive by 1d4, and requires two separate actions. Fire rerouting the power, then actually activating the module (either by two crewmembers on the same turn, or the same crewmember on subsequent turns). ",
+    "url": "/SpaceShips/ShipCombat.html#rerouting-power",
     
-    "relUrl": "/SpaceShips/ShipCombat.html#critical-damage"
+    "relUrl": "/SpaceShips/ShipCombat.html#rerouting-power"
   },"108": {
-    "doc": "Ship Combat",
-    "title": "Hull Loss",
-    "content": "If a ship’s Hull is reduced to 0, it is completely destroyed. ",
-    "url": "/SpaceShips/ShipCombat.html#hull-loss",
-    
-    "relUrl": "/SpaceShips/ShipCombat.html#hull-loss"
-  },"109": {
     "doc": "Ship Names",
     "title": "Ship Name Generator",
     "content": "Generate a random ship name by rolling a d100 on each of the 1st, 2nd, and 3rd Ship Name Tables and combining (or just click here) . For example, rolling 12, 40, and 92 results in The Completely Unnecessary Overreliance on High Explosives. Rolling 87, 98, 76 results in The Nadir of the Spooky Misuse of Official Funds. Rolling 66, 44, 05 results in The Captain’s Aesthetically Pleasing Tax Avoidance Scheme. ",
     "url": "/SpaceShips/ShipNames.html#ship-name-generator",
     
     "relUrl": "/SpaceShips/ShipNames.html#ship-name-generator"
-  },"110": {
+  },"109": {
     "doc": "Ship Names",
     "title": "First Name",
     "content": ". | The | The | The | The | The | The | The | The | The | The | The | The | The | The | The | The | The | The | The | The | The | The | The | The | The | The | The | The | The | The | The | The | The | The | The | The USS | The USS | The CRV | The CRV | The MSV | The MSV | The OSV | The OSV | The HMCS | The HMCS | The UNSC | The UNSC | The RMS | The RMS | The RV | The RV | The GSV | The GSV | The GNS | The GNS | The Original | The Devil’s Own | Your Mom’s | Last Week’s | The Least Surprising | The Decommissioned | Her Royal Majesty’s | Senpai’s | The Once and Future | The Big | Oberon’s | Yuri’s | The Jolly | The Queen Anne’s | The Unregulated | The Captain’s | Newton’s | Einstein’s | Picard’s | The Song of the | The Screams of the | The Remembrance of the | Captain Nemo’s | The Honourable | Harrington’s | Hornblower’s | In Memory of the | The God Emperor’s | Ghost of the | Echos of the | Unconfirmed Reports of the | Barrett’s | Freud’s | Fermat’s | The Lady of the | The Zenith of the | The Nadir of the | The Galaxy’s | Noether’s | Dedicated to the | The Admiral’s | Vangard of the | Kirk’s | Zarkov’s | Janeway’s | The Replacement | Just a Tribute to the | Ashby’s | The People’s | The Ship Formally Known as the | . ",
     "url": "/SpaceShips/ShipNames.html#first-name",
     
     "relUrl": "/SpaceShips/ShipNames.html#first-name"
-  },"111": {
+  },"110": {
     "doc": "Ship Names",
     "title": "Second Name",
     "content": ". | Haunted | Complete | Best | Extremely Brave | Illustrious | Inimitable | Essential | Generic Brand | Penumbral | Randomly Generated | Unmoored | Massive | Rocket Powered | Unresolved | Voice Activated | Nonlinear | Avenging | Foreshadowed | Unrestrained | Unfortunate | Unwritten | Overengineered | Well Hydrated | Top of the Line | Softly Speaking | Refurbished | Peerless | Off The Shelf | Volatile | Multifunction | Multifarious | Illuminated | Authoritative | Deranged | Indispensable | Homicidal | Ineffable | Absolute | Completely Necessary | Completely Unnecessary | Huge | Gargantuan | Surprisingly Small | Aesthetically Pleasing | Second Hand | Freeze Dried | Hermetically Sealed | Well Preserved | Poorly Maintained | Gluten Free | Fully Sanitized | Well Ventilated | Free | Historic | Very Fast | Wandering | Aimless | Transient | Galactic | Solar | Fully Paid Off | Stygian | Esoteric | Ultraviolet | Silent | Holy | Divine | Playful | Legally Owned | Uninsured | Tax Free | Finely Honed | Warp Forged | Cosmic | Cosmological | Stellar | Superluminal | Ancillary | Low Profile | Fully Compostable | Non Fungible | Fermented | Unobserved | Red Shifted | Lorentz Boosted | Unresolved | Last | Statistically Unlikely | Internally Consistent | Celestial | Luxurious | Unmatched | Super | Collective | Universal | Unassuming | Private | Spooky | Bloody | Transgressive | . ",
     "url": "/SpaceShips/ShipNames.html#second-name",
     
     "relUrl": "/SpaceShips/ShipNames.html#second-name"
-  },"112": {
+  },"111": {
     "doc": "Ship Names",
     "title": "Third Name",
     "content": ". | Rudeness | Lack of Surprise | Afterthought | Ship | Tax Avoidance Scheme | Gang | Fondness | Secret Shopper | Complex | Wing | Starcrawler | Misfortune | Sitting Duck | Party Barge | Regret | Star | Soliton | Gunmoon | Express | Saber | Best of Intentions | Reverse Psychology | Apex Predator | Big Stick | Mutually Assured Destruction | Nautilus | Dental Hygine Routine | Cause of the Current Difficulties | Dream | Void Cutter | Theorem | Inadequacy | Overcompensation for Something | Inferiority Complex | Refrains | Motorhome | Pilot Function | Collapsing Wave Function | Living Work of Art | Kinetic Sculpture | Bus | Space Submarine | Clipper | Blockade Runner | Catboat | Dromon | Fire Ship | Merchantman | Sloop | Steamship | Yacht | Scythe | Reaper | Space Turtle | Mechanical Failure | Revenge | Rental | Salvage | Swansong | Ocelot | Starcrawler | Aethership | Constant | Fine Structure Constant | Defiance of the Diffraction Limit | Silicon | Sensor Malfunction | Anomaly | Echos | Pressure Vessel | Temporal Paradox | Bastard | Oedipus Complex | Antelope | Series of Coincidences | Misuse of Official Funds | Implications of FTL Travel | Endeavor | Demon | Aether Treader | Knife | Astral Blade | Circumstances | Someone Else’s Problem | Space Beagle | Aether Dragon | Four Winds | Ruination | Scrap Metal | Translational Symmetry | Tower | Overreliance on High Explosives | Propensity for Violence | Explorer | Traveler | Witness | Watcher | Missile | Action at a Distance | Spear | . ",
     "url": "/SpaceShips/ShipNames.html#third-name",
     
     "relUrl": "/SpaceShips/ShipNames.html#third-name"
-  },"113": {
+  },"112": {
     "doc": "Ship Names",
     "title": "Ship Names",
     "content": " ",
     "url": "/SpaceShips/ShipNames.html",
     
     "relUrl": "/SpaceShips/ShipNames.html"
-  },"114": {
+  },"113": {
     "doc": "Ship Rules",
     "title": "Ship Rules",
     "content": " ",
     "url": "/SpaceShips/ShipRules.html",
     
     "relUrl": "/SpaceShips/ShipRules.html"
-  },"115": {
+  },"114": {
     "doc": "Ship Rules",
     "title": "Ship Operation",
     "content": "In general ships work exactly the same as individual characters. The players narrate what they’re doing with the ship, how they’re flying it, and where they’re going. For normal operation all characters are considered to be baseline competent at flying a ship. A Piloting Skill, or similar, is helpful for high stakes, high risk maneuvers. ",
     "url": "/SpaceShips/ShipRules.html#ship-operation",
     
     "relUrl": "/SpaceShips/ShipRules.html#ship-operation"
-  },"116": {
+  },"115": {
     "doc": "Ship Rules",
     "title": "Ship Saves",
-    "content": "A Ship Save is a roll for the Ship to avoid bad outcomes from risky choices and circumstances. Roll a d20 and compare to the appropriate Ability. If you roll equal to or lower than the Ability you succeed and avoid the bad outcome. Roll a Ship Save when the determining factor for success is the Ship’s capabilities. If success depends more on the skill of a character operating the ship, the character should roll a Save instead. Read about the First Failure principle for more guidance on how to determine who should make a roll. ",
+    "content": "A Ship Save is a roll for the Ship to avoid bad outcomes from risky choices and circumstances. Roll a d20 and compare to the appropriate Attribute. If you roll equal to or lower than the Attribute you succeed and avoid the bad outcome. Roll a Ship Save when the determining factor for success is the Ship’s capabilities. If success depends more on the skill of a character operating the ship, the character should roll a Save instead. Read about the First Failure principle for more guidance on how to determine who should make a roll. ",
     "url": "/SpaceShips/ShipRules.html#ship-saves",
     
     "relUrl": "/SpaceShips/ShipRules.html#ship-saves"
-  },"117": {
+  },"116": {
     "doc": "Ship Rules",
     "title": "Ship Repair",
     "content": "Your ship’s Shields naturally restores 1 point per Round, or faster by spending Fuel to charge them. Damaged Modules require supplies, effort, and a week to repair by hand or a day in a suitably equipped settlement. Hull damage requires a stop at a suitably equipped settlement to be repaired. Usually 6 hours per point of Hull, but advanced facilities may expedite the process. ",
     "url": "/SpaceShips/ShipRules.html#ship-repair",
     
     "relUrl": "/SpaceShips/ShipRules.html#ship-repair"
-  },"118": {
+  },"117": {
     "doc": "Ship Rules",
     "title": "Ship Scale",
     "content": "Under normal circumstances ship weapons are instantly lethal against individual targets, while personal weapons are completely ineffective against ships. If applied cleverly, powerful personal weapons or explosives could bypass this restriction. The same is true for ships of dramatically different scales. A small ship’s weapons are ineffective or impaired against a capital ship, whereas the capital ship’s armaments are likely to be instantly lethal, or at least enhanced, in return. ",
     "url": "/SpaceShips/ShipRules.html#ship-scale",
     
     "relUrl": "/SpaceShips/ShipRules.html#ship-scale"
-  },"119": {
+  },"118": {
     "doc": "Ship Stats",
     "title": "Ship Stats",
     "content": " ",
     "url": "/SpaceShips/ShipStats.html",
     
     "relUrl": "/SpaceShips/ShipStats.html"
-  },"120": {
+  },"119": {
     "doc": "Ship Stats",
-    "title": "Ship Abilities",
-    "content": "Space Ships have Ability Scores similar to a character. | Hull: Used for Saves when taking damage. | Drive: Used for Saves involving maneuverability and speed. | Tech: Used for Saves involving ship Modules and capabilities. | . ",
-    "url": "/SpaceShips/ShipStats.html#ship-abilities",
+    "title": "Ship Attributes",
+    "content": "Space Ships have Attributes similar to a character. | Hull: Used for Saves when taking damage. | Drive: Used for Saves involving maneuverability and speed. | Tech: Used for Saves involving ship Modules and capabilities. | . ",
+    "url": "/SpaceShips/ShipStats.html#ship-attributes",
     
-    "relUrl": "/SpaceShips/ShipStats.html#ship-abilities"
-  },"121": {
+    "relUrl": "/SpaceShips/ShipStats.html#ship-attributes"
+  },"120": {
     "doc": "Ship Stats",
     "title": "Shields",
     "content": "Shields are a ship’s ability to avoid damage in combat. Shields absorb damage before it begins to impact the ship’s Hull, and are restored quickly. ",
     "url": "/SpaceShips/ShipStats.html#shields",
     
     "relUrl": "/SpaceShips/ShipStats.html#shields"
-  },"122": {
+  },"121": {
     "doc": "Ship Stats",
     "title": "Fuel",
-    "content": "Fuel represents a ship’s ability to continue traveling and supporting its crew independently. It is a combination of energy, food, oxygen, ammunition, and raw materials. Fuel is consumed as a ship moves from system to system or moving quickly within a system, for ship upkeep, and for activating ship Modules. Fuel Canisters fill one Inventory slot must be replenished periodically to avoid ship malfunctions, system failures, or crew deprivation. ",
+    "content": "Fuel represents a ship’s ability to continue traveling and supporting its crew independently. It is a combination of energy, food, oxygen, ammunition, and raw materials. Fuel is consumed as a ship moves from system to system, from moving quickly within a system, for ship upkeep, and for activating ship Modules. Fuel Canisters fill one Inventory slot must be replenished periodically to avoid ship malfunctions, system failures, or crew deprivation. ",
     "url": "/SpaceShips/ShipStats.html#fuel",
     
     "relUrl": "/SpaceShips/ShipStats.html#fuel"
-  },"123": {
+  },"122": {
     "doc": "Ship Stats",
     "title": "Modules",
-    "content": "Ships have five Core Modules and usually some number of Specialty Modules occupying inventory slots. Each Specialty Module is associated with a Ship Ability and increases that Ability by 1. Some Modules have charge abilities that are activated by spending a Fuel Canister. ",
+    "content": "Ships have five Core Modules and usually some number of Specialty Modules occupying inventory slots. Each Specialty Module is associated with a Ship Attribute and increases that Attribute by 1. Some Modules have charge abilities that are activated by spending a Fuel Canister. ",
     "url": "/SpaceShips/ShipStats.html#modules",
     
     "relUrl": "/SpaceShips/ShipStats.html#modules"
-  },"124": {
+  },"123": {
     "doc": "Ship Stats",
     "title": "Weapons",
     "content": "Ships usually have at least one weapon, and often more. Weapons have a damage die, and abstracted ranges where they are most effective. Some weapons have charge abilities that are activated by spending one Fuel. ",
     "url": "/SpaceShips/ShipStats.html#weapons",
     
     "relUrl": "/SpaceShips/ShipStats.html#weapons"
-  },"125": {
+  },"124": {
     "doc": "Ship Stats",
     "title": "Inventory",
-    "content": "Player ships usually have a total of 10 inventory slots. Most ship scale items (such as Specialty Modules or Fuel Canisters) take up one slot. Particularly large equipment or items may take up additional slots. Some Specialty Modules can expand the number of inventory slots available in a ship. ",
+    "content": "Player ships usually have a total of 10 inventory slots. Most ship scale items (such as Specialty Modules or Fuel Canisters) take up one slot. Particularly large equipment or items may take up additional slots. Human scale items do not take up ship inventory space, until industrial quantities are reached. Some Specialty Modules can expand the number of inventory slots available in a ship. ",
     "url": "/SpaceShips/ShipStats.html#inventory",
     
     "relUrl": "/SpaceShips/ShipStats.html#inventory"
-  },"126": {
+  },"125": {
     "doc": "Upkeep",
     "title": "Ship Upkeep",
     "content": " ",
     "url": "/SpaceShips/ShipUpkeep.html#ship-upkeep",
     
     "relUrl": "/SpaceShips/ShipUpkeep.html#ship-upkeep"
-  },"127": {
+  },"126": {
     "doc": "Upkeep",
     "title": "Weekly Upkeep",
     "content": "Once per week, one Fuel is consumed by basic power generation, ship maintenance, and life support. If upkeep is not maintained, roll a d6 for each skipped week and each of those Ship Malfunctions occur. ",
     "url": "/SpaceShips/ShipUpkeep.html#weekly-upkeep",
     
     "relUrl": "/SpaceShips/ShipUpkeep.html#weekly-upkeep"
-  },"128": {
+  },"127": {
     "doc": "Upkeep",
     "title": "Ship Malfunction",
     "content": ". | Dead In Space: The ship totally shuts down and is helpless without a resupply. | Loss of Power: The ship is on emergency power, all Specialty Modules are inoperable and all Core Modules operate as though damaged until resupply. | Core Failure: A random Core Module is damaged. | Module Failure: A random Specialty Module is damaged. | Targeting Errors: All ship weapons are impaired until resupply or re-calibration. | Last Legs: A random damaged Module is destroyed. | . ",
     "url": "/SpaceShips/ShipUpkeep.html#ship-malfunction",
     
     "relUrl": "/SpaceShips/ShipUpkeep.html#ship-malfunction"
-  },"129": {
+  },"128": {
     "doc": "Upkeep",
     "title": "Upkeep",
     "content": " ",
     "url": "/SpaceShips/ShipUpkeep.html",
     
     "relUrl": "/SpaceShips/ShipUpkeep.html"
-  },"130": {
+  },"129": {
     "doc": "Ship Weapons",
     "title": "Ship Weapons",
     "content": " ",
     "url": "/SpaceShips/ShipWeapons.html",
     
     "relUrl": "/SpaceShips/ShipWeapons.html"
-  },"131": {
+  },"130": {
     "doc": "Ship Weapons",
     "title": "Weapon Ranges",
-    "content": "Weapons indicate the engagement ranges in which they are effective. Some weapons have charge abilities which can be activated by spending 1 Fuel. ",
+    "content": "Weapons indicate the engagement ranges in which they are effective. Firing a weapon at a range outside their design impairs them, and attempting to fire a weapon at beyond Long range is completely ineffective (outside of extreme circumstances). Some weapons have charge abilities which can be activated by spending 1 Fuel. ",
     "url": "/SpaceShips/ShipWeapons.html#weapon-ranges",
     
     "relUrl": "/SpaceShips/ShipWeapons.html#weapon-ranges"
-  },"132": {
+  },"131": {
     "doc": "Ship Weapons",
     "title": "Default Weapon",
     "content": "Most ships are armed with the default Phased Array weapon. Ships often carry one or more additional armaments. Phased Array (1d6 Short/Medium) A standard microwave array mounted on most ships for self defense. With a clever operator can also be used for other applications such as slicing, mining, or heating. ",
     "url": "/SpaceShips/ShipWeapons.html#default-weapon",
     
     "relUrl": "/SpaceShips/ShipWeapons.html#default-weapon"
-  },"133": {
+  },"132": {
     "doc": "Ship Weapons",
     "title": "Specialty Armaments",
     "content": ". | Ion Cannons (1d8, Short), does not damage Hull but disables a chosen Module on Direct Damage. | Forced Plasma (1d8, Short/Medium), charge to fire a dispersed salvo (1d8 blast, Short/Medium). | Spinal Rail Gun (1d10, Short/Medium/Long), can only fire in the direction the ship is pointing. | Grav Torpedo (1d8, Medium/Long), ignores shields but hits the turn after being fired. | Auto Turret (1d6, Short), Auto Fire Mode: automatically attacks the closest hostile target. Defense Mode: +1 Armor against any incoming attacks. | Mass Driver (1d10, Short/Medium), takes a turn to fire, charge to fire immediately. | Nanobot Canisters (1d6, Short), if this weapon deals Direct Damage it will deal that much Direct Damage again on the following round. | Superconducting Chaff (1d10, Short), does not damage Hull but prevents Shields from being restored. If fired into empty space it creates a cloud that inhibits weapon fire (+3 Armor if firing through it). | Hostile Uplink (1d6, Short/Medium), if this weapon deals Direct Damage it creates a data link to that ship’s computer system allowing for hacking, data plundering, etc. | Powered Missiles (1d6/1d8/1d10 at Short/Medium/Long), deals more damage the more distance it has to accelerate. | . ",
     "url": "/SpaceShips/ShipWeapons.html#specialty-armaments",
     
     "relUrl": "/SpaceShips/ShipWeapons.html#specialty-armaments"
-  },"134": {
+  },"133": {
     "doc": "Ships",
     "title": "Ships",
     "content": " ",
     "url": "/Ships/",
     
     "relUrl": "/Ships/"
-  },"135": {
+  },"134": {
     "doc": "Ships",
     "title": "Space Ships Introduction",
-    "content": "The intent for ship rules is to mirror the rules for individual characters. The players flying their space ship around a star system should feel similar to the players exploring an environment or diving into xeno ruins. To that end the In-System Travel rules are designed to encourage a similar set of behaviors. Weighing the risks and rewards of getting close to things in order to find out more about them. Choosing which route to take to balance speed and safety. Moving slowly and carefully in order to avoid detection. As with the rest of the game the mechanical logistics is kept to a minimum. Fuel does double duty acting both as an equivalent to Fatigue for activating abilities, as well as providing a pressure to visit places of civilization (or similar) with a small amount of resource management. ",
+    "content": "The intent for ship rules is to mirror the rules for individual characters. The players flying their space ship around a star system should feel similar to the players exploring an environment or diving into xeno ruins. To that end the In-System Travel rules are designed to encourage a similar set of behaviors. Weighing the risks and rewards of getting close to things in order to find out more about them. Choosing which route to take to balance speed and safety. Moving slowly and carefully in order to avoid detection. As with the rest of the game the mechanical logistics is kept to a minimum. Fuel does double duty acting both as an equivalent to Fatigue for activating abilities, as well as providing a pressure to visit places of civilization (or similar) without requiring detailed resource management. ",
     "url": "/Ships/#space-ships-introduction",
     
     "relUrl": "/Ships/#space-ships-introduction"
-  },"136": {
+  },"135": {
     "doc": "Skills",
     "title": "Skills",
-    "content": "Skills are things your character is particularly good at and knows a lot about. When there’s no risk, Skills represent a competence and knowledge that an untrained person wouldn’t have. When there’s risk and the situation requires expertise, roll for Saves with your full Training if you have a relevant Skill, and half of it (rounded up) if you don’t. ",
+    "content": "Skills are things your character is particularly good at and knows a lot about. When there’s no risk, Skills represent competence and knowledge that an untrained person wouldn’t have. When there’s risk and the situation requires expertise, roll for Saves with your full Training if you have a relevant Skill, and half of it (rounded up) if you don’t. ",
     "url": "/SRD/Skills.html",
     
     "relUrl": "/SRD/Skills.html"
-  },"137": {
+  },"136": {
     "doc": "Skills",
     "title": "Undefined Skills",
     "content": "Undefined Skills are an unexplored part of your character’s past and chosen on the fly. If you have an Undefined Skill, you may choose what it is in a moment where it is needed. Once defined, the Skill is no longer Undefined and is permanently whatever Skill was chosen. Skills defined this way do not have to appear on the Random Skills list, or within a class, as long as they make sense for the game. ",
     "url": "/SRD/Skills.html#undefined-skills",
     
     "relUrl": "/SRD/Skills.html#undefined-skills"
-  },"138": {
+  },"137": {
     "doc": "Skills",
     "title": "Random Skills (d66)",
-    "content": "To generate a random skill, roll a d6 for the column then a d6 for the row (or click here). | d6 | 1. | 2. | 3. | 4. | 5. | 6. | . | 1. | Hydroponics | Horology | Driving | Philosophy | Mechanical Repair | Sleight of Hand | . | 2. | Geology | Astrogation | Cold Reading | Corporatocracy | Optics | Demolition | . | 3. | Larceny | Folk History | First Aid | Climatology | Plumbing | Salvaging | . | 4. | Hotwiring | Corporate History | Cooking | Spacelaw | Coding | Psychoanalysis | . | 5. | Streetwise | Forensics | Art (Specify Media) | Economics | Cryptography | Nexialism | . | 6. | Knots | Xenoarcheology | Music (Specify Instrument) | Xenoforming | Tracking | Jury Rigging | . ",
+    "content": "To generate a random skill, roll a d6 for the column then a d6 for the row (or click here). | d6 | 1. | 2. | 3. | 4. | 5. | 6. | . | 1. | Hydroponics | Subspace Semaphore | Driving | Philosophy | Mechanical Repair | Sleight of Hand | . | 2. | Geology | Astrogation | Cold Reading | Corporatocracy | Optics | Demolition | . | 3. | Larceny | Folk History | First Aid | Climatology | Plumbing | Salvaging | . | 4. | Hotwiring | Corporate History | Cooking | Spacelaw | Coding | Psychoanalysis | . | 5. | Streetwise | Forensics | Art (Specify Media) | Economics | Cryptography | Knitting | . | 6. | Knots | Xenoarcheology | Music (Specify Instrument) | Xenoforming | Tracking | Jury Rigging | . ",
     "url": "/SRD/Skills.html#random-skills-d66",
     
     "relUrl": "/SRD/Skills.html#random-skills-d66"
-  },"139": {
+  },"138": {
     "doc": "Specialty Modules",
     "title": "Specialty Modules",
     "content": " ",
     "url": "/SpaceShips/SpecialtyModules.html",
     
     "relUrl": "/SpaceShips/SpecialtyModules.html"
-  },"140": {
+  },"139": {
     "doc": "Specialty Modules",
     "title": "Specialty Modules",
-    "content": "Specialty Modules are permanently installed into an inventory slot to provide a ship with extra capabilities. Module are associated with one Ship Ability (Hull, Drives, or Tech), and increases that Ability by +1. Some Modules have charge effects which are used by spending 1 Fuel. ",
+    "content": "Specialty Modules are permanently installed into an inventory slot to provide a ship with extra capabilities. Module are associated with one Ship Attribute (Hull, Drives, or Tech), and increases that Attribute by +1. Some Modules have charge effects which are used by spending 1 Fuel. ",
     "url": "/SpaceShips/SpecialtyModules.html",
     
     "relUrl": "/SpaceShips/SpecialtyModules.html"
-  },"141": {
+  },"140": {
     "doc": "Specialty Modules",
     "title": "Module Damage",
     "content": "Specialty Modules do not have pre-written damaged effects as Core Modules do. Instead, their functionality is reduced roughly by half while damaged. When in doubt reduce the range, increase the cost, or reduce the Module’s effect by half. ",
     "url": "/SpaceShips/SpecialtyModules.html#module-damage",
     
     "relUrl": "/SpaceShips/SpecialtyModules.html#module-damage"
-  },"142": {
+  },"141": {
     "doc": "Specialty Modules",
     "title": "Random Specialty Module",
     "content": "Roll 1d6 for the category (1-2: Hull, 3-4: Drive, 5-6: Tech), then 1d10 for the Module. ",
     "url": "/SpaceShips/SpecialtyModules.html#random-specialty-module",
     
     "relUrl": "/SpaceShips/SpecialtyModules.html#random-specialty-module"
-  },"143": {
+  },"142": {
     "doc": "Specialty Modules",
     "title": "Hull Modules",
-    "content": ". | Brig +1 Inventory slot. Safely secure a few human-sized creatures (or a single large one). | Broad Spectrum High Reflection Coating +1 Max Shields, +1 Armor, sufficiently heat proof to survive a star’s chromosphere. Also gives the ship a stylish chrome appearance. | Cloaking Field Turn completely invisible. Weapons, shields, and warp drives are nonfunctional while cloaked. Anything beyond minimal drive use will break cloaking. | Condensed Magnetic Plating +1 Max Shields, charge to gain +1 Armor for 10 minutes. | Fighter Bay Houses and launches a single seat space craft capable of atmospheric flight. Fighter: 6 Shields, Graser (1d8 Short), 5 Hull, 15 Drives, 5 Tech. No on board life support or warp drive. | Magnetic Scoop +1 Inventory Slot, harvest Fuel from gas giants or dense nebulae at the rate of 1 canister per day. | Redundant Construction +1 Inventory slot. This Module is damaged before any Core Module when the ship takes Critical Damage. | Shield Auto-Charger +1 Max Shields, after taking Direct Damage to the Hull, restore that much to Shields (up to Max). | Shield Modulator +1 Max Shields, +1 Armor against a specific type of weapon, charge to switch types. | Smuggling Compartments +2 Inventory slots, internal compartments hidden from both visual inspection and scan. | . ",
+    "content": ". | Brig +1 Inventory slot. Safely secure a few human-sized creatures (or a single large one). | Broad Spectrum High Reflection Coating +1 Max Shields, +1 Armor, sufficiently heat proof to survive a star’s chromosphere. Also gives the ship a stylish chrome appearance. | Cloaking Field Turn completely invisible. Weapons, shields, and warp drives are nonfunctional while cloaked. Anything beyond minimal drive use will break cloaking. | Condensed Magnetic Plating +1 Max Shields, charge to gain +1 Armor for 10 minutes. | Fighter Bay Houses and launches a single seat space craft capable of atmospheric flight. Fighter: 6 Shields, Graser (1d8 Short), 5 Hull, 15 Drives, 5 Tech. No on board life support or warp drive. | Magnetic Scoop +1 Inventory Slot, harvest Fuel from gas giants or dense nebulae at the rate of 1 canister per day. | Redundant Construction +1 Inventory slot. If a Core Module would be damaged, this Module is damaged instead. | Shield Auto-Charger +1 Max Shields, after taking Direct Damage to the Hull, restore that much to Shields (up to Max). | Shield Modulator +1 Max Shields, +1 Armor against a specific type of weapon, charge to switch types. | Smuggling Compartments +2 Inventory slots, internal compartments hidden from both visual inspection and scan. | . ",
     "url": "/SpaceShips/SpecialtyModules.html#hull-modules",
     
     "relUrl": "/SpaceShips/SpecialtyModules.html#hull-modules"
-  },"144": {
+  },"143": {
     "doc": "Specialty Modules",
     "title": "Drive Modules",
-    "content": ". | After Burner Perform an instantaneous acceleration. Charge to release a 1d8 damage blast behind the ship. | AI Autopilot Can perform simple piloting or a single action each round. Bad at anything complex or detailed. | Cherenkov Shaper Uses residual energy when exiting a warp to send an active radar pulse which maps the system and highlights the position of ships and structures. | Cold Reaction Drives Makes the Impulse Drive emissionless and invisible to visuals and scans. | Inertial Dampener +1 Armor, allows faster accelerations and softens impacts. | Photomagnetic Sail +1 Max Shields, projects a magnetic sail to gain propulsion from sunlight. Achieves Full Burn (Pg 38) travel times without needing to spend Fuel. | Self-Recycling Drive Warp Travel always takes 1 Day, and after warping into a system a single Full Burn (Pg 38) can be performed without spending Fuel. | Skip Drive Allows intra-system “skip jumps” that warp from zone to zone within a system. 10 minute charge to jump safely, 1 minute for an emergency warp. Short range warps still require spending 1 Fuel. | Star Diver Safely warp in 10 minutes (or emergency warp in 1) by diving into a star’s, or black hole’s, gravity well. | Subspace Bore After a Warp, you can leave open a semi-stable wormhole, allowing free and instant traversal. The wormhole collapses after a day unless the Bore is charged both before and after jumping. | . ",
+    "content": ". | After Burner Perform an instantaneous acceleration. Charge to release a 1d8 damage blast behind the ship. | AI Autopilot Can perform simple piloting or a single action each round. Bad at anything complex or detailed. | Cherenkov Shaper Uses residual energy when exiting a warp to send an active radar pulse which maps the system and highlights the position of ships and structures. | Cold Reaction Drives Makes the Impulse Drive emissionless and invisible to visuals and scans. | Inertial Dampener +1 Armor, allows faster accelerations and softens impacts. | Photomagnetic Sail +1 Max Shields, projects a magnetic sail to gain propulsion from sunlight. Achieves Full Burn (Pg 38) travel times without needing to spend Fuel. | Self-Recycling Drive Warp Travel always takes 1 Day, and after warping into a system a single Full Burn (Pg 38) can be performed without spending Fuel. | Skip Drive Allows intra-system “skip jumps” that warp from zone to zone within a system. 10 minute charge to jump safely, 1 minute for an emergency warp. Short range warps still require spending 1 Fuel. | Star Diver Safely warp in 10 minutes (or emergency warp in 1) by diving into a star’s, or black hole’s, gravity well. | Subspace Bore After a warp, you can leave open a semi-stable wormhole, allowing free and instant traversal. The wormhole collapses after a day. This duration is doubled for each additional Fuel spent on the warp jump. | . ",
     "url": "/SpaceShips/SpecialtyModules.html#drive-modules",
     
     "relUrl": "/SpaceShips/SpecialtyModules.html#drive-modules"
-  },"145": {
+  },"144": {
     "doc": "Specialty Modules",
     "title": "Tech Modules",
     "content": ". | Displacer Teleport objects (or an away team) to and from destinations at Short or Medium Ranges. Safe as long as the destination is visible, and the targets can be locked onto. | Effector Field +1 Max Shields, reel in nearby objects or tow them along with the ship. | Hologram Drone Launch an unarmed drone (1 Shields, 3 Hull, 10 Drive, 10 Tech) which can project a hologram around it roughly the same size as your ship. Charge to replace a lost or destroyed drone. | Medbay Robotic doctor and automatic pharmaceutical synthesizer. Fully restores Body loss in six hours, and installs augmentations with no risk. | Programmable Transponder Spoof your ship’s ID and type to scans. | Repair Bots A swarm of small robots automatically repair Hull damage at a rate of 1 point per 6 hours. Charge to a repair a damaged Module or hull breach. | Replicator Print disposable items from blueprints or scans. Charge for complex, esoteric, or reusable items. | Scout Drones Launch up to three unarmed drones (1 Shields, 3 Hull, 10 Drive, 10 Tech) with ship quality Scanning Arrays. Charge to replace lost or destroyed drones. | SWISH (Synthetic Wavelength Integrated Scanning Hologram) Scans provide high resolution 3D data of anything within the same Zone. Nonfunction through interference. | Training Holo-Sim Immersive holographic training room. Each the ship accumulates a week of travel time or downtime each crew-member learns a new Random Skill. | . ",
     "url": "/SpaceShips/SpecialtyModules.html#tech-modules",
     
     "relUrl": "/SpaceShips/SpecialtyModules.html#tech-modules"
-  },"146": {
+  },"145": {
     "doc": "The Galaxy",
     "title": "The Galaxy",
     "content": " ",
     "url": "/Galaxy/",
     
     "relUrl": "/Galaxy/"
-  },"147": {
+  },"146": {
     "doc": "Timeline",
     "title": "Timeline",
     "content": " ",
     "url": "/TheGalaxy/Timeline.html",
     
     "relUrl": "/TheGalaxy/Timeline.html"
-  },"148": {
+  },"147": {
     "doc": "Timeline",
     "title": "Solar Expansion Era",
     "content": "Instigating event: The invention of the Impulse Drive. Relatively safe and inexpensive exploration and exploitation of the solar system is suddenly possible. The governments of earth grant licenses for the privileges to exploit various solar system objects, and the corporations large enough to participate scramble to gain the most valuable. The Meteor Corporation is formed around a license which grants rights to the Oort Cloud and all “deep space objects” beyond the heliopause. The company invests significant time and resources slowly shifting to distant orbits and setting up a network of ships and stations to detect, intercept, and mine the meteoroid, asteroids, and comets that tumble into the solar system from deeper space. ",
     "url": "/TheGalaxy/Timeline.html#solar-expansion-era",
     
     "relUrl": "/TheGalaxy/Timeline.html#solar-expansion-era"
-  },"149": {
+  },"148": {
     "doc": "Timeline",
     "title": "Galactic Expansion Era",
     "content": "Instigating event: The invention of the Warp Drive. Faster than light travel between star systems suddenly opens the rest of the galaxy to humanity. A new gold rush begins, with individuals and companies desperate to be the first to plant their flag on new planets and claim them for their own. The Meteor Corporation has spent decades developing extreme outer orbit infrastructure, meaning they are in the best position to retrofit their ships with the new drive which can only operate a long distance away from massive objects, such as the sun. This allows them a jump start on exploration, as everyone else must first make the long crawl up the gravity well or else pay through the nose to ride on Meteor ships. ",
     "url": "/TheGalaxy/Timeline.html#galactic-expansion-era",
     
     "relUrl": "/TheGalaxy/Timeline.html#galactic-expansion-era"
-  },"150": {
+  },"149": {
     "doc": "Timeline",
     "title": "Corporate Consolidation Era",
     "content": "Instigating event: The Galactic Lawsuit. The Meteor Corporation claims the terms of their original charter extends to all star systems and planets outside of Earth’s solar system. They leverage their early expansion to begin incorporating other deep space companies through buyouts, legal claims, and outright force. Nearly every extant earth based corporation joins forces in the largest legal suit in history: The Corporations of Earth vs The Meteor Corporation. As the dispute is fought in courts, the fight expands into espionage, maneuvering, and sometimes outright violent conflicts. Earth based governments are largely displaced as the alliance of companies formally joins hands as a conglomerate. The Terra Company is born. ",
     "url": "/TheGalaxy/Timeline.html#corporate-consolidation-era",
     
     "relUrl": "/TheGalaxy/Timeline.html#corporate-consolidation-era"
-  },"151": {
+  },"150": {
     "doc": "Timeline",
     "title": "Modern Era",
     "content": "The mega-corps of Terra Company and Meteor Corporation are the only two significant factions remaining. The conflict has never been fully resolved. The Terra Company holds up the decisions of Earth’s courts which affirm Terra Co as the rightful governing body of all humanity. Meteor Corp rejects the authority of those courts, and maintain their original charter grants them legal, and moral, rights to the rest of the galaxy. In practical terms both mega-corps simply own what they are physically able to hold and control. This has resulted in the human expansion bubble being incredibly fractured. Technology, resources, and even life is distributed in a hugely uneven way. The conflict persists on smaller scales, the mega-corps working with the other when they believe they can gain an edge, but being equally willing to engage in open warfare. This uneven, fractured, inconsistent, and often violent galaxy is where this game occurs. The players will have to try and find meaning and a living in the cracks left between the two corporate goliaths. ",
     "url": "/TheGalaxy/Timeline.html#modern-era",
     
     "relUrl": "/TheGalaxy/Timeline.html#modern-era"
-  },"152": {
+  },"151": {
     "doc": "Warp Travel",
     "title": "Warp Travel",
     "content": " ",
     "url": "/SpaceShips/WarpTravel.html",
     
     "relUrl": "/SpaceShips/WarpTravel.html"
-  },"153": {
+  },"152": {
     "doc": "Warp Travel",
     "title": "Standard",
     "content": "Traveling through a Warp Gate is instantaneous and requires no Fuel. Traveling to an adjacent system without a Warp Gate requires 1 Fuel to activate the Warp Drive and takes 1d6 days in warp. Safe warps must be done from outside the outer ring and requires 6 hours of warm up time. When warping into a system, the ship enters in a random zone in the outer ring (roll a d8). ",
     "url": "/SpaceShips/WarpTravel.html#standard",
     
     "relUrl": "/SpaceShips/WarpTravel.html#standard"
-  },"154": {
+  },"153": {
     "doc": "Warp Travel",
     "title": "Emergency",
     "content": "An emergency warp can be attempted with a 5 minute warm up (i.e. 5 ship rounds), and from anywhere within a system. This still costs 1 Fuel. Emergency warps require an appropriate Save to avoid a Warp Mishap. ",
     "url": "/SpaceShips/WarpTravel.html#emergency",
     
     "relUrl": "/SpaceShips/WarpTravel.html#emergency"
-  },"155": {
+  },"154": {
     "doc": "Warp Travel",
     "title": "Warp Mishaps",
     "content": ". | The ship, and everything within it, is reflected as through in a mirror. | You spend no time in warp, but arrive a month later. | You spend a month in warp, but to an outside observer arrive instantly. | A hyperspace life-form hitched a ride on the ship. | You arrive 1d6 (1: an unknown distance, 2-3: two jumps, 4-6: one jump) from your intended destination. | You arrive in a random inner ring Zone, on an imminent collision course with the largest object. | The ship, and everything within it, arrives half phased into hyperspace. | The Warp Drive won’t turn off; trapped in hyperspace. | The Warp Drive melts into a puddle of liquid metal. | 1d6 random ship Modules spontaneously explode. | . ",
     "url": "/SpaceShips/WarpTravel.html#warp-mishaps",
     
     "relUrl": "/SpaceShips/WarpTravel.html#warp-mishaps"
-  },"156": {
+  },"155": {
     "doc": "Weapons",
     "title": "Weapons",
     "content": " ",
     "url": "/SRD/Weapons.html",
     
     "relUrl": "/SRD/Weapons.html"
-  },"157": {
+  },"156": {
     "doc": "Weapons",
     "title": "Weapon Tags",
     "content": "Bulky weapons take up two inventory slots, and require two hands to hold. Blast weapons deal damage to all targets within their effected area. Nonlethal weapons do not deal Direct Damage, but still trigger a Save to avoid Critical Damage. ",
     "url": "/SRD/Weapons.html#weapon-tags",
     
     "relUrl": "/SRD/Weapons.html#weapon-tags"
-  },"158": {
+  },"157": {
     "doc": "Weapons",
     "title": "Weapon Descriptions",
     "content": "Arc Projector (1d6 blast) . Originally a static electricity gun to remove dust from solar panels, but with the limiters removed it launches arcs of deadly electricity. Assault Rifle (1d10, bulky) . Big, loud, deadly. Cutting Torch (1d8) . Emits a small, ultra-hot spear of flame which can cut through most materials. Demo Charge (1d10 blast) . A powerful plastic explosive satchel, triggered by a remote detonator. EMP Grenade (1d10 blast to electronics) . Releases a high powered electro-magnetic pulse which temporarily knocks out nearby electronics. Fire Extinguisher (d6) . Works decently well to bash someone over the head with. Otherwise sprays a sticky, fire retardant foam which hardens as it dries. Flamethrower (1d8 blast, bulky) . Most problems can be solved with the application of sufficient fire. Flashbang (1d10 blast, nonlethal) . Explodes in a loud, bright, multispectral blast which confuses both organic and electric eyes. Frag Grenades (1d10 Blast) . A one size fits all solution, as long as the problem is something being intact when you’d prefer it to be in pieces. Gyrojet Pistol (1d8) . Fires small, spinning rockets rather than dumb bullets. Sought more for style than function. Laser Wristwatch (1d6) . A stylish, if somewhat gaudy, wristwatch with a hidden cutting laser. Machine Gun (1d8 blast, bulky) . Spray and pray. Although the praying is usually for those on the receiving end. Magnetic Slug Thrower (1d6) . Mostly silent, and popular for its ability to launch any bits of metal close to hand in a pinch. Mining Laser (1d10, bulky, one turn charge) . Despite its destructive power, the mining laser is largely considered unsuitable for combat due to the slow charge time, but needs must. Mono-molecular Sword (1d8) . Grown as a single super molecule, the blade is nearly indestructible and never loses its edge. Multipurpose Plasma Cutter (1d8) . Fires a compressed blade of plasma for slicing. Emitters can be reconfigured on the fly to change the orientation of the plasma. Neuronic Whip (1d8, Nonlethal) . Fires a complex electro-magnetic pulse which triggers both the pain and pleasure centers of a brain, leading to confusion or unconsciousness. Irregular results when used on Synths or Xenos. Phased Microwave Array (1d8, nonlethal setting) . Invisible beams that scramble brains or fry them, depending on the setting. Commonly used to cook food in the field. Pipe Wrench (1d6) . Very useful for removing pipes, pretty useful for breaking bones. Plasma Projector (1d8, bulky) . Intended to clean organics off of surfaces, but with safety limiters released creates a short range cone of destructive plasa. Plastiform Pistol (1d8, jams on 8, invisible to scan) . A hand weapon made entirely of non-metallic scan transparent meta-materials, looks like a blurred cloud to the naked eye. Powered Sledgehammer (1d10, forceful, bulky) . The hammer’s head is built from a high durability piezo-electric crystal which releases stored energy on impact. Pry-bar (d6) . Good for opening up stubborn doors, or skulls. Revolver (1d8) . A classic, with vacuum proofing being the only nod towards modernity. Rigging Gun (1d8, bulky, retractable harpoon) . Fires a harpoon with cable attached, popular for setting up safety lines between ships or derelict wrecks. Shock Dart Pistol (1d8, nonlethal) . Metallic prongs send high voltages through the target, effective against both flesh and electronics. Syringe Launcher (1d6 or loaded syringe) . When someone needs medicine administered over there, but you’d really prefer to remain over here. Tactical Shotgun (1d6 blast, 1d10 point-blank, bulky) . Favored by Corporate Security, and disfavored by everyone else, for its ability to wreak absolute havoc inside an enclosed space ship. Timed Mining Charge (1d10 blast) . An explosive package designed to shatter close packed stone and metal. Welding Fuel Tank (d6 bludgeon, d10 blast if ignited) . Filled with fuel and oxygen for a welding torch, hefty in its own right. Welding Torch (1d8) . Burns with an ultra-hot flame to cut apart and stick together metals. ",
     "url": "/SRD/Weapons.html#weapon-descriptions",
     
     "relUrl": "/SRD/Weapons.html#weapon-descriptions"
-  },"159": {
+  },"158": {
     "doc": "Home",
     "title": "About Meteor",
     "content": "Meteor is designed to be easy to play and teach, and features: . | Quick character creation including “Undefined Skills” chosen during play to avoid decision paralysis. | Decisive combat that plays fast and encourages tactics and ambushes. | A simple stress/panic system to emulate horror, without using lasting phobias or conditions. | Streamlined space ship rules to make exploring star systems dynamic and exciting. | Space combat that makes ship battles fun without over-complicated logistics. | . Meteor is designed for “one shot impact” to let every character shine in a limited time, but with support for longer campaigns focused on: . | Xenoarcheology and Exploration | Corporate Espionage | Derelict Ship Diving | Mercenary Bounty Hunting | . Inspired by science fiction including: . | Downbelow Station by C. J. Cherryh | Wasp by Eric Frank Russell | The Voyage of the Space Beagle by A. E. van Vogt | The Long Way to a Small Angry Planet by Becky Chambers | The Robot stories by Isaac Asimov | Star Trek (primarily TOS/TNG) | . ",
     "url": "/#about-meteor",
     
     "relUrl": "/#about-meteor"
-  },"160": {
+  },"159": {
     "doc": "Home",
     "title": "Work In Progress v 0.6.2 – Out Of Breath",
     "content": "Meteor RPG is still under construction, parts of the game are still being written, playtested, and modified. The core rules are relatively stable, and it’s more than complete enough to pick up and play. Just be aware the parts of the game (particularly the Space Ship Rules) are in flux and likely to change at least slightly pending further playtests. Read the most recent changelog over on itch. ",
     "url": "/#work-in-progress-v-062--out-of-breath",
     
     "relUrl": "/#work-in-progress-v-062--out-of-breath"
-  },"161": {
+  },"160": {
     "doc": "Home",
     "title": "Home",
     "content": ". Meteor is a Corporate SciFi Tabletop Role Playing Game built on top of the Cairn RPG and borrows heavily from the Mothership RPG for its tone and style. Check out the Introduction to understand what’s happening here. Read the Rules to see what makes Meteor tick. Jump right in and Make a Character. Grab the free PDF and character sheets for nice layout and excellent art. Meteor RPG is written by David Lombardo of AwkwardTurtle Games. Art by Charles Ferguson-Avery. The text of Meteor is licensed under CC-BY-SA 4.0. ",
     "url": "/",
     
     "relUrl": "/"
-  },"162": {
+  },"161": {
     "doc": "Introduction",
     "title": "Introduction",
     "content": " ",
     "url": "/Introduction/",
     
     "relUrl": "/Introduction/"
-  },"163": {
+  },"162": {
     "doc": "Introduction",
     "title": "The Game",
     "content": "Meteor is a tabletop role playing game about a crew of eclectic characters having exciting, and stressful, adventures in a far future corporate galaxy. It is built off the chassis of the Cairn RPG and borrows the vibes of the Mothership Sci-Fi Horror RPG. It is designed for easy playability with the latter’s excellent library of modules, but tones down the horror elements, in favor of a more “golden age” style. Fast character creation and easy to grasp mechanics for both Game Master and players reduce “time to table”. Combat is dynamic, exciting, and decisive. Stress and horror may cause characters to panic but won’t inflict lasting phobias or conditions. Although the total size of this game is growing, only the sections covering Character Creation, Rules, and Combat (plus whichever Class you pick) are really needed to get started. The rest is rules that explain things in more detail, cover areas that might come up later (like space ships!), or give the GM tools to help run the game. ",
     "url": "/Introduction/#the-game",
     
     "relUrl": "/Introduction/#the-game"
-  },"164": {
+  },"163": {
     "doc": "Introduction",
     "title": "The Galaxy",
     "content": "Meteor has a setting, but only in so far as it helped me write what you find within the book. The setting is not canon, nor required, but a helpful background to make things more coherent. In short, Meteor takes place in a far future galaxy dominated by mega-corporations. Meteor Corp, which controls the outer reaches and far flung parts of the galaxy, and Terra Company, which controls Old Earth and the surrounding colonies, have been at war for as long as anyone remembers. Players must make their way, scraping out a living in a galaxy shattered by conflict. For more see The Galaxy. ",
     "url": "/Introduction/#the-galaxy",
     
     "relUrl": "/Introduction/#the-galaxy"
-  },"165": {
+  },"164": {
     "doc": "Introduction",
     "title": "Work In Progress – version 0.6.2",
     "content": "Meteor is a playable, but unfinished game. Rules, text, and layout are all expected to be expanded and changed as playtesting progresses. If you play this game I’d love to hear about it via AwkwardTurtle Games, a comment on itch, or in the NSR or Cairn discord servers. ",

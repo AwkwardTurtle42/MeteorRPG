@@ -23,7 +23,7 @@ Increase your HP and Body by d3 each.
 
  * Pick Two: Intimidation, Weapon Repair, Military Training, and Wrestling
  * Two [Random Skills](/SRD/Skills.html#random-skills-d66)
- * Two [Undefined Skills](/SRD/Skills.html#undefined-skills)
+ * One [Undefined Skills](/SRD/Skills.html#undefined-skills)
 
 ### Panic
 
@@ -68,7 +68,7 @@ Increase your Body and Resolve by d3 each.
 
  * Pick Two: Zero-G, Engineering, Fast Talk, and Piloting
  * Two [Random Skills](/SRD/Skills.html#random-skills-d66)
- * Two [Undefined Skills](/SRD/Skills.html#undefined-skills)
+ * One [Undefined Skills](/SRD/Skills.html#undefined-skills)
 
 ### Panic
 
@@ -110,7 +110,7 @@ Increase your Resolve and Training by d3 each.
 
  * Pick Two: Linguistics, Mathematics, Computers, and Cybernetics
  * Two [Random Skills](/SRD/Skills.html#random-skills-d66)
- * Two [Undefined Skills](/SRD/Skills.html#undefined-skills)
+ * One [Undefined Skills](/SRD/Skills.html#undefined-skills)
 
 ### Panic
 
@@ -124,6 +124,7 @@ Your inventory slots with Augmentations can also store Fatigue.
 
 You start with:
  * Access Jack Augmentation (Interface with any computer. Charge to remotely interface in line of sight.)
+ * Vac Suit (6 Oxygen), if you're the sort of synth that needs to breathe.
 
 Plus equipment based on your Max HP. If your highest Ability is below 10 you may choose another item from this list.
 
@@ -151,7 +152,7 @@ Increase your Training by d6.
 
  * Pick Two: Biology, Chemistry, Physics, and Hacking
  * Two [Random Skills](/SRD/Skills.html#random-skills-d66)
- * Two [Undefined Skills](/SRD/Skills.html#undefined-skills)
+ * One [Undefined Skills](/SRD/Skills.html#undefined-skills)
 
 ### Panic
 

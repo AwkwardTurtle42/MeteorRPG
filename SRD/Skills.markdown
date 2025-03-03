@@ -7,7 +7,7 @@ nav_order: 6
 
 # Skills
 
-Skills are things your character is particularly good at and knows a lot about. When there’s no risk, Skills represent a competence and knowledge that an untrained person wouldn’t have. When there’s risk and the situation requires expertise, roll for Saves with your full Training if you have a relevant Skill, and half of it (rounded up) if you don’t.
+Skills are things your character is particularly good at and knows a lot about. When there’s no risk, Skills represent competence and knowledge that an untrained person wouldn’t have. When there’s risk and the situation requires expertise, roll for Saves with your full Training if you have a relevant Skill, and half of it (rounded up) if you don’t.
 
 ## Undefined Skills
 
@@ -19,9 +19,9 @@ To generate a random skill, roll a d6 for the column then a d6 for the row (or c
 
 | d6 | 1.          | 2.                | 3.                         | 4.             | 5.                | 6.              |
 |----|-------------|-------------------|----------------------------|----------------|-------------------|-----------------|
-| 1. | Hydroponics | Horology          | Driving                    | Philosophy     | Mechanical Repair | Sleight of Hand |
+| 1. | Hydroponics | Subspace Semaphore| Driving                    | Philosophy     | Mechanical Repair | Sleight of Hand |
 | 2. | Geology     | Astrogation       | Cold Reading               | Corporatocracy | Optics            | Demolition      |
 | 3. | Larceny     | Folk History      | First Aid                  | Climatology    | Plumbing          | Salvaging       |
 | 4. | Hotwiring   | Corporate History | Cooking                    | Spacelaw       | Coding            | Psychoanalysis  |
-| 5. | Streetwise  | Forensics         | Art (Specify Media)        | Economics      | Cryptography      | Nexialism       |
+| 5. | Streetwise  | Forensics         | Art (Specify Media)        | Economics      | Cryptography      | Knitting        |
 | 6. | Knots       | Xenoarcheology    | Music (Specify Instrument) | Xenoforming    | Tracking          | Jury Rigging    |

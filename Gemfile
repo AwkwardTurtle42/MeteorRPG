@@ -37,4 +37,6 @@ group :jekyll_plugins do
     gem "jekyll-admin"
     gem "just-the-docs"
     gem 'jekyll-redirect-from'
+    gem "webrick"
 end
+gem "jekyll-include-cache", "~> 0.2.1"

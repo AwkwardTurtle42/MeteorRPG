@@ -11,18 +11,18 @@ nav_order: 10
 
 There is no single method to create player ships, as it is too dependent on the type of campaign, how the players acquired the ship, and how much it cost them. 
 
-In general, any method will follow the pattern of starting with some Base Abilities (a default of 10 in each), the five Core Modules (including 3 Shields from the Standard Shield Projector), a d6 damage Phased Array for a weapon, 1-3 Specialty Modules (which increase Abilities when installed), and an additional weapon.
+In general, any method will follow the pattern of starting with some Base Attributes (a default of 10 in each), the five Core Modules (including 3 Shields from the Standard Shield Projector), a d6 damage Phased Array for a weapon, 1-3 Specialty Modules (which increase Attributes when installed), and one additional weapon.
 
 The following are some possible Ship Creation frameworks, along with seeds for the first adventure and the sort of campaign they might lead into.
 
-Start a ship with d4+2 Fuel canisters already loaded into their Inventory.
+Ships also start with d4+2 Fuel canisters already loaded into their Inventory.
 
 ## New To You
 
 You were extremely frugal, you scrounged and saved every cred you got your hands on, and even skipped out on buying coffee every morning to try and save up. Turns out that last bit wasn’t very much help, and all you could afford was a second hand ship.
 
- * **Abilities:** Assign 10, 8, 6.
- * **Specialty Modules:** Pick any one, plus two random from within Abilities of your choice.
+ * **Attributes:** Assign 10, 8, 6.
+ * **Specialty Modules:** Pick any one, plus two random from within Attributes of your choice.
  * **Additional Weapons:** Choose one out of two random weapons.
 
 **Downside:** Ship is in rough shape, and probably has some hidden idiosyncrasies or a hidden past. Maybe it's haunted.
@@ -35,7 +35,7 @@ You were extremely frugal, you scrounged and saved every cred you got your hands
 
 You were willing to go deep into debt to some shady characters in order to buy your dream ship. 
 
- * **Abilities:** Assign 14, 12, 10.
+ * **Attributes:** Assign 14, 12, 10.
  * **Specialty Modules:** Pick any three.
  * **Additional Weapons:** Pick any one.
 
@@ -47,8 +47,8 @@ You were willing to go deep into debt to some shady characters in order to buy y
 
 ## Stole it! Crimes!
 
-You’ve a criminal! The cool kind! Where you steal a space ship!
- * **Abilities:** Randomly assign 12, 10, 8.
+You’re a criminal! The cool kind! Where you steal a space ship!
+ * **Attributes:** Randomly assign 12, 10, 8.
  * **Specialty Modules:** Four entirely random modules.
  * **Additional Weapons:** One random weapon.
 

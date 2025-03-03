@@ -9,7 +9,7 @@ nav_order: 8
 
 ## Specialty Modules
 
-Specialty Modules are permanently installed into an inventory slot to provide a ship with extra capabilities. Module are associated with one Ship Ability (Hull, Drives, or Tech), and increases that Ability by +1.
+Specialty Modules are permanently installed into an inventory slot to provide a ship with extra capabilities. Module are associated with one Ship Attribute (Hull, Drives, or Tech), and increases that Attribute by +1.
 
 Some Modules have charge effects which are used by spending 1 Fuel.
 
@@ -29,7 +29,7 @@ Roll 1d6 for the category (1-2: Hull, 3-4: Drive, 5-6: Tech), then 1d10 for the 
 4.	**Condensed Magnetic Plating** +1 Max Shields, charge to gain +1 Armor for 10 minutes.
 5.	**Fighter Bay** Houses and launches a single seat space craft capable of atmospheric flight. Fighter: 6 Shields, Graser (1d8 Short), 5 Hull, 15 Drives, 5 Tech. No on board life support or warp drive. 
 6.	**Magnetic Scoop** +1 Inventory Slot, harvest Fuel from gas giants or dense nebulae at the rate of 1 canister per day.
-7.	**Redundant Construction** +1 Inventory slot. This Module is damaged before any Core Module when the ship takes Critical Damage. 
+7.	**Redundant Construction** +1 Inventory slot. If a Core Module would be damaged, this Module is damaged instead. 
 8.	**Shield Auto-Charger** +1 Max Shields, after taking Direct Damage to the Hull, restore that much to Shields (up to Max).
 9.	**Shield Modulator** +1 Max Shields, +1 Armor against a specific type of weapon, charge to switch types.
 10.	**Smuggling Compartments** +2 Inventory slots, internal compartments hidden from both visual inspection and scan.
@@ -45,7 +45,7 @@ Roll 1d6 for the category (1-2: Hull, 3-4: Drive, 5-6: Tech), then 1d10 for the 
 7.	**Self-Recycling Drive** Warp Travel always takes 1 Day, and after warping into a system a single Full Burn (Pg 38) can be performed without spending Fuel.
 8.	**Skip Drive** Allows intra-system “skip jumps” that warp from zone to zone within a system. 10 minute charge to jump safely, 1 minute for an emergency warp. Short range warps still require spending 1 Fuel.
 9.	**Star Diver** Safely warp in 10 minutes (or emergency warp in 1) by diving into a star’s, or black hole’s, gravity well.
-10.	**Subspace Bore** After a Warp, you can leave open a semi-stable wormhole, allowing free and instant traversal. The wormhole collapses after a day unless the Bore is charged both before and after jumping. 
+10.	**Subspace Bore** After a warp, you can leave open a semi-stable wormhole, allowing free and instant traversal. The wormhole collapses after a day. This duration is doubled for each additional Fuel spent on the warp jump. 
 
 ## Tech Modules
 1.	**Displacer** Teleport objects (or an away team) to and from destinations at Short or Medium Ranges. Safe as long as the destination is visible, and the targets can be locked onto. 
