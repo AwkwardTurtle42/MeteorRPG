@@ -50,8 +50,8 @@ Inspired by science fiction including:
  * The Robot stories by Isaac Asimov
  * Star Trek (primarily TOS/TNG)
 
-## Work In Progress v 0.6.2 -- Out Of Breath
+## Work In Progress v 0.6.3 -- Out Of Breath
 
 Meteor RPG is still under construction, parts of the game are still being written, playtested, and modified. The core rules are relatively stable, and it's more than complete enough to pick up and play. Just be aware the parts of the game (particularly the Space Ship Rules) are in flux and likely to change at least slightly pending further playtests.
 
-Read the most recent changelog over on [itch](https://awkwardturtle.itch.io/meteor/devlog/526776/out-of-breath-update-to-062).
+Read the most recent changelog [here](https://awkwardturtle.itch.io/meteor/devlog/526776/out-of-breath-update-to-062), and [here](https://awkwardturtle.itch.io/meteor/devlog/898799/the-project-is-not-dead).
